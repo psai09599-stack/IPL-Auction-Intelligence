@@ -1,0 +1,1280 @@
+player_name,year,team,base_price_cr,price_paid_cr,status
+Christopher Barnwell,2013,Royal Challengers Bangalore,0.305,0.305,sold
+Johan Botha,2013,Delhi Daredevils,1.83,2.745,sold
+Daniel Christian,2013,Royal Challengers Bangalore,0.61,0.61,sold
+Michael Clarke,2013,Pune Warriors India,2.44,2.44,sold
+Nathan Coulter-Nile,2013,Mumbai Indians,0.61,2.745,sold
+Akila Dananjaya,2013,Chennai Super Kings,0.122,0.122,sold
+Quinton de Kock,2013,Sunrisers Hyderabad,0.122,0.122,sold
+Fidel Edwards,2013,Rajasthan Royals,0.61,1.281,sold
+James Faulkner,2013,Rajasthan Royals,0.61,2.44,sold
+Manpreet Gony,2013,Kings XI Punjab,1.22,3.05,sold
+Moisés Henriques,2013,Royal Challengers Bangalore,0.61,1.83,sold
+Jason Holder,2013,Chennai Super Kings,0.122,0.122,sold
+Phillip Hughes,2013,Mumbai Indians,0.61,0.61,sold
+Ben Laughlin,2013,Chennai Super Kings,0.122,0.122,sold
+Glenn Maxwell,2013,Mumbai Indians,1.22,6.1,sold
+Nathan McCullum,2013,Sunrisers Hyderabad,0.61,0.61,sold
+Clint McKay,2013,Sunrisers Hyderabad,0.61,0.61,sold
+Ryan McLaren,2013,Kolkata Knight Riders,0.305,0.305,sold
+Ajantha Mendis,2013,Pune Warriors India,0.305,4.4225,sold
+Jeevan Mendis,2013,Delhi Daredevils,0.305,0.305,sold
+Chris Morris,2013,Chennai Super Kings,0.122,3.8125,sold
+Dirk Nannes,2013,Chennai Super Kings,1.22,3.66,sold
+Abhishek Nayar,2013,Pune Warriors India,0.61,4.1175,sold
+Jacob Oram,2013,Mumbai Indians,0.305,0.305,sold
+Kusal Perera,2013,Rajasthan Royals,0.122,0.122,sold
+Thisara Perera,2013,Sunrisers Hyderabad,0.305,4.1175,sold
+Luke Pomersbach,2013,Kings XI Punjab,0.305,1.83,sold
+Ricky Ponting,2013,Mumbai Indians,2.44,2.44,sold
+Ravi Rampaul,2013,Royal Challengers Bangalore,0.305,1.7690000000000001,sold
+Kane Richardson,2013,Pune Warriors India,0.61,4.27,sold
+Jesse Ryder,2013,Delhi Daredevils,0.61,1.5859999999999999,sold
+Darren Sammy,2013,Sunrisers Hyderabad,0.61,2.5925,sold
+Sachithra Senanayake,2013,Kolkata Knight Riders,0.305,3.8125,sold
+Pankaj Singh,2013,Royal Challengers Bangalore,0.305,0.915,sold
+R. P. Singh,2013,Royal Challengers Bangalore,0.61,2.44,sold
+Sudeep Tyagi,2013,Sunrisers Hyderabad,0.61,0.61,sold
+Jaydev Unadkat,2013,Royal Challengers Bangalore,0.61,3.2025,sold
+Mitchell Johnson,2014,Kings XI Punjab,2.0,6.5,sold
+Jacques Kallis,2014,Kolkata Knight Riders,2.0,5.5,sold
+Kevin Pietersen,2014,Delhi Daredevils,2.0,9.0,sold
+Virender Sehwag,2014,Kings XI Punjab,2.0,3.2,sold
+Yuvraj Singh,2014,Royal Challengers Bangalore,2.0,14.0,sold
+Murali Vijay,2014,Delhi Daredevils,2.0,5.0,sold
+David Warner,2014,Sunrisers Hyderabad,1.5,5.5,sold
+George Bailey,2014,Kings XI Punjab,2.0,3.25,sold
+Faf du Plessis,2014,Chennai Super Kings,1.5,4.75,sold
+Michael Hussey,2014,Mumbai Indians,2.0,5.0,sold
+Dinesh Karthik,2014,Delhi Daredevils,2.0,12.5,sold
+Zaheer Khan,2014,Mumbai Indians,1.0,2.6,sold
+Brendon McCullum,2014,Chennai Super Kings,2.0,3.25,sold
+Amit Mishra,2014,Sunrisers Hyderabad,2.0,4.75,sold
+Darren Sammy,2014,Sunrisers Hyderabad,1.0,3.5,sold
+Jean-Paul Duminy,2014,Delhi Daredevils,1.0,2.2,sold
+Aaron Finch,2014,Sunrisers Hyderabad,1.0,4.0,sold
+Brad Hodge,2014,Rajasthan Royals,2.0,2.4,sold
+Shaun Marsh,2014,Kings XI Punjab,2.0,2.2,sold
+Cheteshwar Pujara,2014,Kings XI Punjab,1.5,1.9,sold
+Dwayne Smith,2014,Chennai Super Kings,1.5,4.5,sold
+Ross Taylor,2014,Delhi Daredevils,2.0,2.0,sold
+Manoj Tiwary,2014,Delhi Daredevils,2.0,2.8,sold
+Robin Uthappa,2014,Kolkata Knight Riders,2.0,5.0,sold
+Quinton de Kock,2014,Delhi Dardevils,1.0,3.5,sold
+Naman Ojha,2014,Sunrisers Hyderabad,0.5,0.5,sold
+Parthiv Patel,2014,Royal Challengers Bangalore,1.0,2.75,sold
+Wriddhiman Saha,2014,Kings XI Punjab,1.0,2.2,sold
+Shakib Al Hasan,2014,Kolkata Knight Riders,1.0,2.8,sold
+Albie Morkel,2014,Royal Challengers Bangalore,1.5,2.4,sold
+Irfan Pathan,2014,Sunrisers Hyderabad,1.5,2.4,sold
+Yusuf Pathan,2014,Kolkata Knight Riders,2.0,3.25,sold
+Thisara Perera,2014,Kings XI Punjab,0.5,1.6,sold
+Steve Smith,2014,Rajasthan Royals,2.0,4.0,sold
+Ashok Dinda,2014,Royal Challengers Bangalore,1.0,1.5,sold
+Bhuvneshwar Kumar,2014,Sunrisers Hyderabad,1.5,4.25,sold
+Morne Morkel,2014,Kolkata Knight Riders,1.5,2.8,sold
+Ravi Rampaul,2014,Royal Challengers Bangalore,0.5,0.9,sold
+Mohammed Shami,2014,Delhi Dardevils,1.0,4.25,sold
+Ishant Sharma,2014,Sunrisers Hyderabad,1.5,4.25,sold
+Mitchell Starc,2014,Royal Challengers Bangalore,2.0,5.0,sold
+Ranganath Vinay Kumar,2014,Kolkata Knight Riders,1.5,2.8,sold
+Umesh Yadav,2014,Kolkata Knight Riders,1.0,2.6,sold
+Piyush Chawla,2014,Kolkata Knight Riders,0.5,4.25,sold
+Murali Kartik,2014,Kings XI Punjab,1.0,1.0,sold
+Muttiah Muralitharan,2014,Royal Challengers Bangalore,1.0,1.0,sold
+Pragyan Ojha,2014,Mumbai Indians,2.0,3.25,sold
+Rahul Sharma,2014,Delhi Daredevils,0.5,1.9,sold
+Nic Maddinson,2014,Royal Challengers Bangalore,0.5,0.5,sold
+Saurabh Tiwary,2014,Delhi Daredevils,0.5,0.7,sold
+Brendan Taylor,2014,Sunrisers Hyderabad,0.3,0.3,sold
+Corey Anderson,2014,Mumbai Indians,1.0,4.5,sold
+Moises Henriques,2014,Sunrisers Hyderabad,1.0,1.0,sold
+Glenn Maxwell,2014,Kings XI Punjab,1.0,6.0,sold
+Abhishek Nayar,2014,Rajasthan Royals,0.3,1.0,sold
+Laxmi Ratan Shukla,2014,Delhi Daredevils,0.5,1.5,sold
+Andre Russell,2014,Kolkata Knight Riders,0.5,0.6,sold
+Varun Aaron,2014,Royal Challengers Bangalore,1.5,2.0,sold
+Parvinder Awana,2014,Kings XI Punjab,0.5,0.65,sold
+Lakshmipathy Balaji,2014,Kings XI Punjab,0.5,1.8,sold
+Nathan Coulter-Nile,2014,Delhi Daredevils,1.0,4.25,sold
+Ashish Nehra,2014,Chennai Super Kings,2.0,2.0,sold
+Mohit Sharma,2014,Chennai Super Kings,1.0,2.0,sold
+Jaydev Unadkat,2014,Delhi Daredevils,1.0,2.8,sold
+Samuel Badree,2014,Chennai Super Kings,0.3,0.3,sold
+Chris Lynn,2014,Kolkata Knight Riders,0.5,1.3,sold
+Yalaka Venugopal Rao,2014,Sunrisers Hyderabad,0.3,0.55,sold
+John Hastings,2014,Chennai Super Kings,0.5,0.5,sold
+James Neesham,2014,Delhi Daredevils,0.3,1.0,sold
+Ben Cutting,2014,Rajasthan Royals,0.5,0.8,sold
+Josh Hazlewood,2014,Mumbai Indians,0.5,0.5,sold
+Ben Hilfenhaus,2014,Chennai Super Kings,1.0,1.0,sold
+Jason Holder,2014,Sunrisers Hyderabad,0.5,0.75,sold
+Kane Richardson,2014,Rajasthan Royals,1.0,1.0,sold
+Tim Southee,2014,Rajasthan Royals,0.5,1.2,sold
+Patrick Cummins,2014,Kolkata Knight Riders,1.0,1.0,sold
+Wayne Parnell,2014,Delhi Daredevils,1.0,1.0,sold
+Marchant de Lange,2014,Mumbai Indians,0.3,0.3,sold
+Krishmar Santokie,2014,Mumbai Indians,0.3,0.3,sold
+Matt Henry,2014,Chennai Super Kings,0.3,0.3,sold
+Mayank Agarwal,2014,Delhi Daredevils,0.1,1.6,sold
+Srikkanth Anirudha,2014,Sunrisers Hyderabad,0.2,0.2,sold
+Baba Aparajith,2014,Chennai Super Kings,0.1,0.1,sold
+Unmukt Chand,2014,Rajasthan Royals,0.3,0.65,sold
+Kedar Jadhav,2014,Delhi Daredevils,0.3,2.0,sold
+Manprit Juneja,2014,Sunrisers Hyderabad,0.1,0.1,sold
+Gurkeerat Singh,2014,Kings XI Punjab,0.2,1.3,sold
+Manish Pandey,2014,Kolkata Knight Riders,0.2,1.7,sold
+KL Rahul,2014,Sunrisers Hyderabad,0.1,1.0,sold
+Suryakumar Yadav,2014,Kolkata Knight Riders,0.2,0.7,sold
+Vijay Zol,2014,Royal Challengers Bangalore,0.3,0.3,sold
+Ankush Bains,2014,Rajasthan Royals,0.1,0.1,sold
+Manvinder Bisla,2014,Kolkata Knight Riders,0.3,0.6,sold
+Debabrata Das,2014,Kolkata Knight Riders,0.2,0.2,sold
+Ben Dunk,2014,Mumbai Indians,0.2,0.2,sold
+CM Gautam,2014,Mumbai Indians,0.2,0.2,sold
+Sushant Marathe,2014,Mumbai Indians,0.1,0.1,sold
+Yogesh Takawale,2014,Royal Challengers Bangalore,0.1,0.1,sold
+Aditya Tare,2014,Mumbai Indians,0.2,1.6,sold
+Iqbal Abdullah,2014,Rajasthan Royals,0.3,0.65,sold
+Rajat Bhatia,2014,Rajasthan Royals,0.3,1.7,sold
+Kevon Cooper,2014,Rajasthan Royals,0.3,0.3,sold
+Rishi Dhawan,2014,Kings XI Punjab,0.2,3.0,sold
+Mithun Manhas,2014,Chennai Super Kings,0.3,0.3,sold
+Parvez Rasool,2014,Sunrisers Hyderabad,0.2,0.95,sold
+Mandeep Singh,2014,Kings XI Punjab,0.3,0.8,sold
+Ryan Ten Doeschate,2014,Kolkata Knight Riders,1.0,1.0,sold
+Abu Nechim Ahmed,2014,Royal Challengers Bangalore,0.3,0.3,sold
+Jasprit Bumrah,2014,Mumbai Indians,0.2,1.2,sold
+Siddarth Kaul,2014,Delhi Daredevils,0.2,0.45,sold
+Dhawal Kulkarni,2014,Rajasthan Royals,0.3,1.1,sold
+Ishwar Pandey,2014,Chennai Super Kings,0.1,1.5,sold
+Prasanth Parameswaran,2014,Sunrisers Hyderabad,0.3,0.3,sold
+Sandeep Sharma,2014,Kings XI Punjab,0.3,0.85,sold
+Rahul Shukla,2014,Delhi Daredevils,0.2,0.4,sold
+Anureet Singh,2014,Kings XI Punjab,0.2,0.2,sold
+Shreyas Gopal,2014,Mumbai Indians,0.1,0.1,sold
+Shadab Jakati,2014,Royal Challengers Bangalore,0.2,0.2,sold
+Shahbaz Nadeem,2014,Delhi Daredevils,0.3,0.85,sold
+Pawan Negi,2014,Chennai Super Kings,0.1,0.1,sold
+Karn Sharma,2014,Sunrisers Hyderabad,0.3,3.75,sold
+Yuzvendra Chahal,2014,Royal Challengers Bangalore,0.1,0.1,sold
+Kuldeep Yadav,2014,Kolkata Knight Riders,0.1,0.4,sold
+Pravin Tambe,2014,Rajasthan Royals,0.1,0.1,sold
+Karun Nair,2014,Rajasthan Royals,0.1,0.75,sold
+Apoorv Vijay Wankhade,2014,Mumbai Indians,0.1,0.1,sold
+Amit Paunikar,2014,Sunrisers Hyderabad,0.2,0.2,sold
+Dishant Yagnik,2014,Rajasthan Royals,0.3,0.3,sold
+Akshar Patel,2014,Kings XI Punjab,0.2,0.75,sold
+Jalaj Saxena,2014,Mumbai Indians,0.2,0.9,sold
+Vijay Shankar,2014,Chennai Super Kings,0.1,0.1,sold
+Beuran Hendricks,2014,Kings XI Punjab,0.3,1.8,sold
+Vikramjeet Malik,2014,Rajasthan Royals,0.2,0.2,sold
+Ronit More,2014,Chennai Super Kings,0.1,0.1,sold
+Harshal Patel,2014,Royal Challengers Bangalore,0.3,0.4,sold
+Veer Pratap Singh,2014,Kolkata Knight Riders,0.2,0.4,sold
+Ashish Reddy,2014,Sunrisers Hyderabad,0.2,0.2,sold
+Pawan Suyal,2014,Mumbai Indians,0.1,0.1,sold
+Sandeep Warrier,2014,Royal Challengers Bangalore,0.1,0.1,sold
+Ankit Nagendra Sharma,2014,Rajasthan Royals,0.1,0.1,sold
+Ricky Bhui,2014,Sunrisers Hyderabad,0.1,0.1,sold
+Rahul Tewatia,2014,Rajasthan Royals,0.1,0.1,sold
+Jayant Yadav,2014,Delhi Daredevils,0.1,0.1,sold
+Amit Mishra,2014,Rajasthan Royals,0.1,0.1,sold
+Sachin Rana,2014,Royal Challengers Bangalore,0.2,0.2,sold
+HS Sharath,2014,Delhi Daredevils,0.1,0.1,sold
+Shivam Sharma,2014,Kings XI Punjab,0.1,0.1,sold
+Deepak Hooda,2014,Rajasthan Royals,0.1,0.4,sold
+Chama Milind,2014,Sunrisers Hyderabad,0.1,0.1,sold
+Shardul Thakur,2014,Kings XI Punjab,0.1,0.2,sold
+Tanmay Mishra,2014,Royal Challengers Bangalore,0.1,0.1,sold
+Sayan Sekhar Mondal,2014,Kolkata Knight Riders,0.1,0.1,sold
+Karanveer Singh,2014,Kings XI Punjab,0.1,0.1,sold
+Milind Kumar,2014,Delhi Daredevils,0.1,0.1,sold
+Michael Hussey,2015,Chennai Super Kings,1.5,1.5,sold
+Irfan Pathan,2015,Chennai Super Kings,1.5,1.5,sold
+Rahul Sharma,2015,Chennai Super Kings,0.3,0.3,sold
+Kyle Abbott,2015,Chennai Super Kings,0.3,0.3,sold
+Andrew Tye,2015,Chennai Super Kings,0.2,0.2,sold
+Pratyush Singh,2015,Chennai Super Kings,0.1,0.1,sold
+Ankush Bains,2015,Chennai Super Kings,0.1,0.1,sold
+Eklavya Dwivedi,2015,Chennai Super Kings,0.1,0.1,sold
+Yuvraj Singh,2015,Delhi Daredevils,2.0,16.0,sold
+Angelo Mathews,2015,Delhi Daredevils,1.5,7.5,sold
+Zaheer Khan,2015,Delhi Daredevils,1.0,4.0,sold
+Amit Mishra,2015,Delhi Daredevils,0.1,3.5,sold
+Shreyas Iyer,2015,Delhi Daredevils,0.1,2.6,sold
+Gurinder Sandhu,2015,Delhi Daredevils,0.3,1.7,sold
+Jaydev Unadkat,2015,Delhi Daredevils,0.5,1.1,sold
+Domnic Joseph,2015,Delhi Daredevils,0.1,0.75,sold
+Albie Morkel,2015,Delhi Daredevils,0.3,0.3,sold
+Marcus Stoinis,2015,Delhi Daredevils,0.2,0.25,sold
+CM Gautam,2015,Delhi Daredevils,0.2,0.2,sold
+Srikar Bharat,2015,Delhi Daredevils,0.1,0.1,sold
+KK Jiyas,2015,Delhi Daredevils,0.1,0.1,sold
+Murali Vijay,2015,Kings XI Punjab,0.5,3.0,sold
+Nikhil Naik,2015,Kings XI Punjab,0.1,0.3,sold
+Yogesh Golwalkar,2015,Kings XI Punjab,0.1,0.1,sold
+KC Cariappa,2015,Kolkata Knight Riders,0.1,2.4,sold
+James Neesham,2015,Kolkata Knight Riders,0.3,0.5,sold
+Brad Hogg,2015,Kolkata Knight Riders,0.5,0.5,sold
+Aditya Garhwal,2015,Kolkata Knight Riders,0.1,0.25,sold
+Sheldon Jackson,2015,Kolkata Knight Riders,0.1,0.15,sold
+Sumit Narwal,2015,Kolkata Knight Riders,0.1,0.1,sold
+Vaibhav Rawal,2015,Kolkata Knight Riders,0.1,0.1,sold
+Aaron Finch,2015,Mumbai Indians,1.0,3.2,sold
+Pragyan Ojha,2015,Mumbai Indians,0.5,0.5,sold
+Abhimanyu Mithun,2015,Mumbai Indians,0.3,0.3,sold
+Mitchell McClenaghan,2015,Mumbai Indians,0.3,0.3,sold
+Aiden Blizzard,2015,Mumbai Indians,0.3,0.3,sold
+Hardik Pandya,2015,Mumbai Indians,0.1,0.1,sold
+Akshay Wakhare,2015,Mumbai Indians,0.1,0.1,sold
+Nitish Rana,2015,Mumbai Indians,0.1,0.1,sold
+Siddhesh Lad,2015,Mumbai Indians,0.1,0.1,sold
+Jagadeesha Suchith,2015,Mumbai Indians,0.1,0.1,sold
+Chris Morris,2015,Rajasthan Royals,0.5,1.4,sold
+Rusty Theron,2015,Rajasthan Royals,0.3,0.3,sold
+Barinder Sran,2015,Rajasthan Royals,0.1,0.1,sold
+Dinesh Salunkhe,2015,Rajasthan Royals,0.1,0.1,sold
+Sagar Trivedi,2015,Rajasthan Royals,0.1,0.1,sold
+Pardeep Sahu,2015,Rajasthan Royals,0.1,0.1,sold
+Dinesh Karthik,2015,Royal Challengers Bangalore,2.0,10.5,sold
+Darren Sammy,2015,Royal Challengers Bangalore,1.0,2.8,sold
+David Wiese,2015,Royal Challengers Bangalore,0.3,2.8,sold
+Sean Abbott,2015,Royal Challengers Bangalore,0.5,1.0,sold
+Adam Milne,2015,Royal Challengers Bangalore,0.3,0.7,sold
+Sarfaraz Khan,2015,Royal Challengers Bangalore,0.1,0.5,sold
+Subramaniam Badrinath,2015,Royal Challengers Bangalore,0.3,0.3,sold
+Jalaj Saxena,2015,Royal Challengers Bangalore,0.1,0.1,sold
+Shishir Bhavane,2015,Royal Challengers Bangalore,0.1,0.1,sold
+Trent Boult,2015,Sunrisers Hyderabad,0.5,3.8,sold
+Praveen Kumar,2015,Sunrisers Hyderabad,0.5,2.2,sold
+Kevin Pietersen,2015,Sunrisers Hyderabad,2.0,2.0,sold
+Eoin Morgan,2015,Sunrisers Hyderabad,1.5,1.5,sold
+Ravi Bopara,2015,Sunrisers Hyderabad,1.0,1.0,sold
+Kane Williamson,2015,Sunrisers Hyderabad,0.5,0.6,sold
+Laxmi Ratan Shukla,2015,Sunrisers Hyderabad,0.3,0.3,sold
+Padmanabhan Prasanth,2015,Sunrisers Hyderabad,0.1,0.1,sold
+Hanuma Vihari,2015,Sunrisers Hyderabad,0.1,0.1,sold
+Siddarth Kaul,2015,Sunrisers Hyderabad,0.1,0.1,sold
+Kevin Pietersen,2016,Rising Pune Supergiant,2.0,3.0,sold
+Dwayne Smith,2016,Gujarat Lions,0.5,2.3,sold
+Ishant Sharma,2016,Rising Pune Supergiant,2.0,3.8,sold
+Shane Watson,2016,Royal Challengers Bangalore,2.0,9.5,sold
+Ashish Nehra,2016,Sunrisers Hyderabad,2.0,5.5,sold
+Yuvraj Singh,2016,Sunrisers Hyderabad,2.0,7.0,sold
+Dale Steyn,2016,Gujarat Lions,1.5,2.3,sold
+Sanju Samson,2016,Delhi Daredevils,2.0,4.2,sold
+Jos Buttler,2016,Mumbai Indians,1.5,3.8,sold
+Dinesh Karthik,2016,Gujarat Lions,2.0,2.3,sold
+Irfan Pathan,2016,Rising Pune Supergiant,1.0,1.0,sold
+Chris Morris,2016,Delhi Daredevils,0.5,7.0,sold
+Colin Munro,2016,Kolkata Knight Riders,0.3,0.3,sold
+Stuart Binny,2016,Royal Challengers Bangalore,2.0,2.0,sold
+Mitchell Marsh,2016,Rising Pune Supergiant,2.0,4.8,sold
+Dhawal Kulkarni,2016,Gujarat Lions,2.0,2.3,sold
+John Hastings,2016,Kolkata Knight Riders,1.0,1.3,sold
+Praveen Kumar,2016,Gujarat Lions,0.5,3.5,sold
+Tim Southee,2016,Mumbai Indians,1.0,2.5,sold
+Mohit Sharma,2016,Kings XI Punjab,1.5,6.5,sold
+Carlos Brathwaite,2016,Delhi Daredevils,0.3,4.2,sold
+Marcus Stoinis,2016,Kings XI Punjab,0.3,0.55,sold
+Mustafizur Rahman,2016,Sunrisers Hyderabad,0.5,1.4,sold
+Jaydev Unadkat,2016,Kolkata Knight Riders,0.3,1.6,sold
+Kyle Abbott,2016,Kings XI Punjab,0.3,2.1,sold
+Barinder Sran,2016,Sunrisers Hyderabad,0.5,1.2,sold
+Abhimanyu Mithun,2016,Sunrisers Hyderabad,0.3,0.3,sold
+R. P. Singh,2016,Rising Pune Supergiant,0.3,0.3,sold
+Travis Head,2016,Royal Challengers Bangalore,0.3,0.5,sold
+Sachin Baby,2016,Royal Challengers Bangalore,0.1,0.1,sold
+Karun Nair,2016,Delhi Daredevils,0.1,4.0,sold
+Paras Dogra,2016,Gujarat Lions,0.1,4.0,sold
+Ishan Kishan,2016,Gujarat Lions,0.1,0.35,sold
+Rishabh Pant,2016,Delhi Daredevils,0.1,1.9,sold
+Eklavya Dwivedi,2016,Gujarat Lions,0.2,1.0,sold
+Aditya Tare,2016,Sunrisers Hyderabad,0.2,1.2,sold
+Iqbal Abdulla,2016,Royal Challengers Bangalore,0.1,0.1,sold
+Deepak Hooda,2016,Sunrisers Hyderabad,0.1,4.2,sold
+Ankit Sharma,2016,Rising Pune Supergiant,0.1,0.1,sold
+Pawan Negi,2016,Delhi Daredevils,0.3,8.5,sold
+Rajat Bhatia,2016,Rising Pune Supergiant,0.3,0.6,sold
+Pradeep Sangwan,2016,Gujarat Lions,0.2,0.2,sold
+Nathu Singh,2016,Mumbai Indians,0.1,3.2,sold
+Ishwar Pandey,2016,Rising Pune Supergiant,0.2,0.2,sold
+Ankit Rajpoot,2016,Kolkata Knight Riders,0.1,1.5,sold
+Pravin Tambe,2016,Gujarat Lions,0.1,0.2,sold
+Shivil Kaushik,2016,Gujarat Lions,0.1,0.1,sold
+Sarabjit Ladda,2016,Gujarat Lions,0.1,0.1,sold
+Murugan Ashwin,2016,Rising Pune Supergiant,0.1,4.5,sold
+KC Cariappa,2016,Kings XI Punjab,0.1,0.8,sold
+Aaron Finch,2016,Gujarat Lions,1.0,1.0,sold
+Sam Billings,2016,Delhi Daredevils,0.3,0.3,sold
+Tirumalasetti Suman,2016,Sunrisers Hyderabad,0.1,0.1,sold
+Ankush Bains,2016,Rising Pune Supergiant,0.1,0.1,sold
+Umang Sharma,2016,Gujarat Lions,0.1,0.1,sold
+Peter Handscomb,2016,Rising Pune Supergiant,0.3,0.3,sold
+Jitesh Sharma,2016,Mumbai Indians,0.1,0.1,sold
+Armaan Jaffer,2016,Kings XI Punjab,0.1,0.1,sold
+Jason Holder,2016,Kolkata Knight Riders,0.5,0.7,sold
+Thisara Perera,2016,Rising Pune Supergiant,1.0,1.0,sold
+Ben Cutting,2016,Sunrisers Hyderabad,0.5,0.5,sold
+Andrew Tye,2016,Gujarat Lions,0.3,0.5,sold
+Praveen Dubey,2016,Royal Challengers Bangalore,0.1,0.35,sold
+Rajagopal Sathish,2016,Kolkata Knight Riders,0.2,0.2,sold
+Vijay Shankar,2016,Sunrisers Hyderabad,0.1,0.35,sold
+Shadab Jakati,2016,Gujarat Lions,0.2,0.2,sold
+Akshay Karnewar,2016,Royal Challengers Bangalore,0.1,0.1,sold
+Akshdeep Nath,2016,Gujarat Lions,0.1,0.1,sold
+Manan Sharma,2016,Kolkata Knight Riders,0.1,0.1,sold
+Baba Aparajith,2016,Rising Pune Supergiant,0.1,0.1,sold
+Deepak Chahar,2016,Rising Pune Supergiant,0.1,0.1,sold
+Kishore Kamath,2016,Mumbai Indians,0.1,1.4,sold
+Pardeep Sahu,2016,Kings XI Punjab,0.1,0.1,sold
+Krunal Pandya,2016,Mumbai Indians,0.1,2.0,sold
+Deepak Punia,2016,Mumbai Indians,0.1,0.1,sold
+Swapnil Singh,2016,Kings XI Punjab,0.1,0.1,sold
+Khaleel Ahmed,2016,Delhi Daredevils,0.1,0.1,sold
+Jaydev Shah,2016,Gujarat Lions,0.2,0.2,sold
+Pratyush Singh,2016,Delhi Daredevils,0.1,0.1,sold
+Ashok Dinda,2016,Rising Pune Supergiant,0.5,0.5,sold
+Kane Richardson,2016,Royal Challengers Bangalore,2.0,2.0,sold
+Samuel Badree,2016,Royal Challengers Bangalore,0.5,0.5,sold
+Joel Paris,2016,Delhi Daredevils,0.3,0.3,sold
+Scott Boland,2016,Rising Pune Supergiant,0.5,0.5,sold
+Vikramjeet Malik,2016,Royal Challengers Bangalore,0.2,0.2,sold
+Pawan Suyal,2016,Delhi Daredevils,0.1,0.1,sold
+Adam Zampa,2016,Rising Pune Supergiant,0.3,0.3,sold
+Amit Mishra,2016,Gujarat Lions,0.1,0.1,sold
+Jaskaran Singh,2016,Rising Pune Supergiant,0.1,0.1,sold
+Chama Milind,2016,Delhi Daredevils,0.1,0.1,sold
+Vikas Tokas,2016,Royal Challengers Bangalore,0.1,0.1,sold
+Farhaan Behardien,2016,Kings XI Punjab,0.3,0.3,sold
+Akhil Herwadkar,2016,Delhi Daredevils,0.1,0.1,sold
+Mahipal Lomror,2016,Delhi Daredevils,0.1,0.1,sold
+Eoin Morgan,2017,Kings XI Punjab,2.0,2.0,sold
+Pawan Negi,2017,Royal Challengers Bangalore,0.3,1.0,sold
+Angelo Mathews,2017,Delhi Daredevils,2.0,2.0,sold
+Ben Stokes,2017,Rising Pune Supergiants,2.0,14.5,sold
+Corey Anderson,2017,Delhi Daredevils,1.0,1.0,sold
+Nicholas Pooran,2017,Mumbai Indians,0.3,0.3,sold
+Kagiso Rabada,2017,Delhi Daredevils,1.0,5.0,sold
+Trent Boult,2017,Kolkata Knight Riders,1.5,5.0,sold
+Tymal Mills,2017,Royal Challengers Bangalore,0.5,12.0,sold
+Pat Cummins,2017,Delhi Daredevils,2.0,4.5,sold
+Mitchell Johnson,2017,Mumbai Indians,2.0,2.0,sold
+Ankit Bawne,2017,Delhi Daredevils,0.1,0.1,sold
+Tanmay Agarwal,2017,Sunrisers Hyderabad,0.1,0.1,sold
+Mohammad Nabi,2017,Sunrisers Hyderabad,0.3,0.3,sold
+K Gowtham,2017,Mumbai Indians,0.1,2.0,sold
+Rahul Tewatia,2017,Kings XI Punjab,0.1,0.25,sold
+Aditya Tare,2017,Delhi Daredevils,0.2,0.25,sold
+Eklavya Dwivedi,2017,Sunrisers Hyderabad,0.3,0.75,sold
+Aniket Choudhary,2017,Royal Challengers Bangalore,0.1,2.0,sold
+T Natarajan,2017,Kings XI Punjab,0.1,3.0,sold
+Nathu Singh,2017,Gujarat Lions,0.3,0.5,sold
+Basil Thampi,2017,Gujarat Lions,0.1,0.85,sold
+M Ashwin,2017,Delhi Daredevils,0.1,1.0,sold
+Tejas Baroka,2017,Gujarat Lions,0.1,0.1,sold
+Rashid Khan,2017,Sunrisers Hyderabad,0.5,4.0,sold
+Pravin Tambe,2017,Sunrisers Hyderabad,0.1,0.1,sold
+Chris Woakes,2017,Kolkata Knight Riders,2.0,4.2,sold
+Karn Sharma,2017,Mumbai Indians,0.3,3.2,sold
+Rishi Dhawan,2017,Kolkata Knight Riders,0.3,0.55,sold
+Matt Henry,2017,Kings XI Punjab,0.5,0.5,sold
+Jaydev Unadkat,2017,Rising Pune Supergiants,0.3,0.3,sold
+Varun Aaron,2017,Kings XI Punjab,0.3,2.8,sold
+Manpreet Gony,2017,Gujarat Lions,0.3,0.6,sold
+Martin Guptill,2017,Kings XI Punjab,0.5,0.5,sold
+Jason Roy,2017,Gujarat Lions,1.0,1.0,sold
+Saurabh Tiwary,2017,Mumbai Indians,0.3,0.3,sold
+Chris Jordan,2017,Sunrisers Hyderabad,0.5,0.5,sold
+Nathan Coulter-Nile,2017,Kolkata Knight Riders,1.0,3.5,sold
+Praveen Dubey,2017,Royal Challengers Bangalore,0.1,0.1,sold
+Navdeep Saini,2017,Delhi Daredevils,0.1,0.1,sold
+Ben Laughlin,2017,Sunrisers Hyderabad,0.3,0.3,sold
+Billy Stanlake,2017,Royal Challengers Bangalore,0.3,0.3,sold
+Mohammed Siraj,2017,Sunrisers Hyderabad,0.2,2.6,sold
+Rahul Chahar,2017,Rising Pune Supergiants,0.1,0.1,sold
+Saurabh Kumar,2017,Rising Pune Supergiants,0.1,0.1,sold
+Asela Gunaratne,2017,Mumbai Indians,0.3,0.3,sold
+Daniel Christian,2017,Rising Pune Supergiants,1.0,1.0,sold
+Rovman Powell,2017,Kolkata Knight Riders,0.3,0.3,sold
+Darren Sammy,2017,Kings XI Punjab,0.3,0.3,sold
+Munaf Patel,2017,Gujarat Lions,0.3,0.3,sold
+Rinku Singh,2017,Kings XI Punjab,0.1,0.1,sold
+Shashank Singh,2017,Delhi Daredevils,0.1,0.1,sold
+Milind Tandon,2017,Rising Pune Supergiants,0.1,0.1,sold
+Kulwant Khejroliya,2017,Mumbai Indians,0.1,0.1,sold
+Chirag Suri,2017,Gujarat Lions,0.1,0.1,sold
+R Sanjay Yadav,2017,Kolkata Knight Riders,0.1,0.1,sold
+Shelley Shaurya,2017,Gujarat Lions,0.1,0.1,sold
+Shubham Agarwal,2017,Gujarat Lions,0.1,0.1,sold
+Ishank Jaggi,2017,Kolkata Knight Riders,0.1,0.1,sold
+Rahul Tripathi,2017,Rising Pune Supergiants,0.1,0.1,sold
+Pratham Singh,2017,Gujarat Lions,0.1,0.1,sold
+Akshdeep Nath,2017,Gujarat Lions,0.1,0.1,sold
+Lockie Ferguson,2017,Rising Pune Supergiants,0.5,0.5,sold
+Manoj Tiwary,2017,Rising Pune Supergiants,0.5,0.5,sold
+Darren Bravo,2017,Kolkata Knight Riders,0.5,0.5,sold
+Sayan Ghosh,2017,Kolkata Knight Riders,0.1,0.1,sold
+Shikhar Dhawan,2018,Sunrisers Hyderabad,2.0,5.2,sold
+Ravichandran Ashwin,2018,Kings XI Punjab,2.0,7.6,sold
+Kieron Pollard,2018,Mumbai Indians,2.0,5.4,sold
+Ben Stokes,2018,Rajasthan Royals,2.0,12.5,sold
+Faf du Plessis,2018,Chennai Super Kings,1.5,1.6,sold
+Ajinkya Rahane,2018,Rajasthan Royals,2.0,4.0,sold
+Mitchell Starc,2018,Kolkata Knight Riders,2.0,9.4,sold
+Harbhajan Singh,2018,Chennai Super Kings,2.0,2.0,sold
+Shakib Al Hasan,2018,Sunrisers Hyderabad,1.0,2.0,sold
+Glenn Maxwell,2018,Delhi Daredevils,2.0,9.0,sold
+Gautam Gambhir,2018,Delhi Daredevils,2.0,2.8,sold
+Dwayne Bravo,2018,Chennai Super Kings,2.0,6.4,sold
+Kane Williamson,2018,Sunrisers Hyderabad,1.5,3.0,sold
+Yuvraj Singh,2018,Kings XI Punjab,2.0,2.0,sold
+Karun Nair,2018,Kings XI Punjab,0.5,5.6,sold
+KL Rahul,2018,Kings XI Punjab,2.0,11.0,sold
+David Miller,2018,Kings XI Punjab,1.5,3.0,sold
+Aaron Finch,2018,Kings XI Punjab,1.5,6.2,sold
+Brendon McCullum,2018,Royal Challengers Bangalore,2.0,3.6,sold
+Jason Roy,2018,Delhi Daredevils,1.5,1.5,sold
+Chris Lynn,2018,Kolkata Knight Riders,2.0,9.6,sold
+Manish Pandey,2018,Sunrisers Hyderabad,1.0,11.0,sold
+Chris Woakes,2018,Royal Challengers Bangalore,2.0,7.4,sold
+Carlos Brathwaite,2018,Sunrisers Hyderabad,1.0,2.0,sold
+Shane Watson,2018,Chennai Super Kings,1.0,4.0,sold
+Kedar Jadhav,2018,Chennai Super Kings,2.0,7.8,sold
+Colin de Grandhomme,2018,Royal Challengers Bangalore,0.75,2.2,sold
+Yusuf Pathan,2018,Sunrisers Hyderabad,0.75,1.9,sold
+Colin Munro,2018,Delhi Daredevils,0.5,1.9,sold
+Stuart Binny,2018,Rajasthan Royals,0.5,0.5,sold
+Marcus Stoinis,2018,Kings XI Punjab,2.0,6.2,sold
+Moeen Ali,2018,Royal Challengers Bangalore,1.5,1.7,sold
+Quinton de Kock,2018,Royal Challengers Bangalore,2.0,2.8,sold
+Wriddhiman Saha,2018,Sunrisers Hyderabad,1.0,5.0,sold
+Dinesh Karthik,2018,Kolkata Knight Riders,2.0,7.4,sold
+Robin Uthappa,2018,Kolkata Knight Riders,2.0,6.4,sold
+Sanju Samson,2018,Rajasthan Royals,1.0,8.0,sold
+Ambati Rayudu,2018,Chennai Super Kings,0.5,2.2,sold
+Jos Buttler,2018,Rajasthan Royals,1.5,4.4,sold
+Mustafizur Rahman,2018,Mumbai Indians,1.0,2.2,sold
+Pat Cummins,2018,Mumbai Indians,2.0,5.4,sold
+Umesh Yadav,2018,Royal Challengers Bangalore,1.0,4.2,sold
+Mohammed Shami,2018,Delhi Daredevils,1.0,3.0,sold
+Kagiso Rabada,2018,Delhi Daredevils,1.5,4.2,sold
+Piyush Chawla,2018,Kolkata Knight Riders,1.0,4.2,sold
+Imran Tahir,2018,Chennai Super Kings,1.0,1.0,sold
+Karn Sharma,2018,Chennai Super Kings,2.0,5.0,sold
+Rashid Khan,2018,Sunrisers Hyderabad,2.0,9.0,sold
+Amit Mishra,2018,Delhi Daredevils,1.5,4.0,sold
+Yuzvendra Chahal,2018,Royal Challengers Bangalore,2.0,6.0,sold
+Kuldeep Yadav,2018,Kolkata Knight Riders,1.5,5.8,sold
+Suryakumar Yadav,2018,Mumbai Indians,0.3,3.2,sold
+Shubman Gill,2018,Kolkata Knight Riders,0.2,1.8,sold
+Ishank Jaggi,2018,Kolkata Knight Riders,0.2,0.2,sold
+Ricky Bhui,2018,Sunrisers Hyderabad,0.2,0.2,sold
+Mayank Agarwal,2018,Kings XI Punjab,0.2,1.0,sold
+Rahul Tripathi,2018,Rajasthan Royals,0.2,3.4,sold
+Manan Vohra,2018,Royal Challengers Bangalore,0.2,1.1,sold
+Prithvi Shaw,2018,Delhi Daredevils,0.2,1.2,sold
+Rahul Tewatia,2018,Delhi Daredevils,0.2,3.0,sold
+Deepak Hooda,2018,Sunrisers Hyderabad,0.4,3.6,sold
+Vijay Shankar,2018,Delhi Daredevils,0.4,3.2,sold
+Harshal Patel,2018,Delhi Daredevils,0.2,0.2,sold
+Kamlesh Nagarkoti,2018,Kolkata Knight Riders,0.2,3.2,sold
+Krunal Pandya,2018,Mumbai Indians,0.4,8.8,sold
+Nitish Rana,2018,Kolkata Knight Riders,0.2,3.4,sold
+D'Arcy Short,2018,Rajasthan Royals,0.2,4.0,sold
+Jofra Archer,2018,Rajasthan Royals,0.4,7.2,sold
+Ishan Kishan,2018,Mumbai Indians,0.4,6.2,sold
+Kulwant Khejroliya,2018,Royal Challengers Bangalore,0.2,0.85,sold
+Siddharth Kaul,2018,Sunrisers Hyderabad,0.3,3.8,sold
+T Natarajan,2018,Sunrisers Hyderabad,0.4,0.4,sold
+Basil Thampi,2018,Sunrisers Hyderabad,0.3,0.95,sold
+Aniket Choudhary,2018,Royal Challengers Bangalore,0.3,0.3,sold
+Khaleel Ahmed,2018,Sunrisers Hyderabad,0.2,3.0,sold
+Navdeep Saini,2018,Royal Challengers Bangalore,0.2,3.0,sold
+Avesh Khan,2018,Delhi Daredevils,0.2,0.7,sold
+Ankit Rajpoot,2018,Kings XI Punjab,0.3,3.0,sold
+Rahul Chahar,2018,Mumbai Indians,0.2,1.9,sold
+Shahbaz Nadeem,2018,Delhi Daredevils,0.4,3.2,sold
+Krishnappa Gowtham,2018,Rajasthan Royals,0.2,6.2,sold
+Murugan Ashwin,2018,Royal Challengers Bangalore,0.2,2.2,sold
+Evin Lewis,2018,Mumbai Indians,1.5,3.8,sold
+Saurabh Tiwary,2018,Mumbai Indians,0.5,0.8,sold
+Mandeep Singh,2018,Royal Challengers Bangalore,0.5,1.4,sold
+Manoj Tiwary,2018,Kings XI Punjab,0.5,1.0,sold
+Washington Sundar,2018,Royal Challengers Bangalore,1.5,3.2,sold
+Pawan Negi,2018,Royal Challengers Bangalore,0.5,1.0,sold
+Daniel Christian,2018,Delhi Daredevils,1.0,1.5,sold
+Jayant Yadav,2018,Delhi Daredevils,0.5,0.5,sold
+Gurkeerat Singh,2018,Delhi Daredevils,0.5,0.75,sold
+Ben Cutting,2018,Mumbai Indians,1.0,2.2,sold
+Mohammad Nabi,2018,Sunrisers Hyderabad,0.5,1.0,sold
+Dhawal Kulkarni,2018,Rajasthan Royals,0.5,0.75,sold
+Mohit Sharma,2018,Kings XI Punjab,1.5,2.4,sold
+Sandeep Sharma,2018,Sunrisers Hyderabad,0.5,3.0,sold
+Vinay Kumar,2018,Kolkata Knight Riders,1.0,1.0,sold
+Mohammed Siraj,2018,Royal Challengers Bangalore,1.0,2.6,sold
+Nathan Coulter-Nile,2018,Royal Challengers Bangalore,1.5,2.2,sold
+Jaydev Unadkat,2018,Rajasthan Royals,1.5,11.5,sold
+Trent Boult,2018,Delhi Daredevils,1.5,2.2,sold
+Shardul Thakur,2018,Chennai Super Kings,0.75,2.6,sold
+Mujeeb Zadran,2018,Kings XI Punjab,0.5,4.0,sold
+Apoorv Wankhade,2018,Kolkata Knight Riders,0.2,0.2,sold
+Rinku Singh,2018,Kolkata Knight Riders,0.2,0.8,sold
+Sachin Baby,2018,Sunrisers Hyderabad,0.2,0.2,sold
+Manjot Kalra,2018,Delhi Daredevils,0.2,0.2,sold
+Ankit Sharma,2018,Rajasthan Royals,0.2,0.2,sold
+Shivam Mavi,2018,Kolkata Knight Riders,0.2,3.0,sold
+Abhishek Sharma,2018,Delhi Daredevils,0.2,0.55,sold
+Pradeep Sangwan,2018,Mumbai Indians,0.3,1.5,sold
+Anureet Singh,2018,Rajasthan Royals,0.3,0.3,sold
+Narayan Jagadeesan,2018,Chennai Super Kings,0.2,0.2,sold
+Zahir Khan Pakteen,2018,Rajasthan Royals,0.2,0.6,sold
+Jean-Paul Duminy,2018,Mumbai Indians,1.0,1.0,sold
+Chris Jordan,2018,Sunrisers Hyderabad,1.0,1.0,sold
+Mitchell Santner,2018,Chennai Super Kings,0.5,0.5,sold
+Jason Behrendorff,2018,Mumbai Indians,1.0,1.5,sold
+Barinder Sran,2018,Kings XI Punjab,0.5,2.2,sold
+Billy Stanlake,2018,Sunrisers Hyderabad,0.5,0.5,sold
+Andrew Tye,2018,Kings XI Punjab,1.0,7.2,sold
+Tanmay Agarwal,2018,Sunrisers Hyderabad,0.2,0.2,sold
+Deepak Chahar,2018,Chennai Super Kings,0.2,0.8,sold
+Cameron Delport,2018,Kolkata Knight Riders,0.3,0.3,sold
+Tajinder Singh,2018,Mumbai Indians,0.2,0.55,sold
+Shreyas Gopal,2018,Rajasthan Royals,0.2,0.2,sold
+Akshdeep Nath,2018,Kings XI Punjab,0.2,1.0,sold
+Shreevats Goswami,2018,Sunrisers Hyderabad,0.2,1.0,sold
+Ben Dwarshuis,2018,Kings XI Punjab,0.2,1.4,sold
+KM Asif,2018,Chennai Super Kings,0.2,0.4,sold
+Sandeep Lamichhane,2018,Delhi Daredevils,0.2,0.2,sold
+Lungisani Ngidi,2018,Chennai Super Kings,0.5,0.5,sold
+Sharad Lumba,2018,Mumbai Indians,0.2,0.2,sold
+Kanishk Seth,2018,Chennai Super Kings,0.2,0.2,sold
+Dhruv Shorey,2018,Chennai Super Kings,0.2,0.2,sold
+Aniruddha Joshi,2018,Royal Challengers Bangalore,0.2,0.2,sold
+Sudhesan Midhun,2018,Rajasthan Royals,0.2,0.2,sold
+Murali Vijay,2018,Chennai Super Kings,2.0,2.0,sold
+Sam Billings,2018,Chennai Super Kings,1.0,1.0,sold
+Naman Ojha,2018,Delhi Daredevils,0.75,1.4,sold
+Parthiv Patel,2018,Royal Challengers Bangalore,1.0,1.7,sold
+Mitchell Johnson,2018,Kolkata Knight Riders,2.0,2.0,sold
+Tim Southee,2018,Royal Challengers Bangalore,1.0,1.0,sold
+Siddhesh Lad,2018,Mumbai Indians,0.2,0.2,sold
+Prashant Chopra,2018,Rajasthan Royals,0.2,0.2,sold
+Aditya Tare,2018,Mumbai Indians,0.2,0.2,sold
+Bipul Sharma,2018,Sunrisers Hyderabad,0.2,0.2,sold
+Sayan Ghosh,2018,Delhi Daredevils,0.2,0.2,sold
+Mayank Markande,2018,Mumbai Indians,0.2,0.2,sold
+Ben Laughlin,2018,Rajasthan Royals,0.5,0.5,sold
+Akila Dananjaya,2018,Mumbai Indians,0.5,0.5,sold
+Pardeep Sahu,2018,Kings XI Punjab,0.2,0.2,sold
+Mayank Dagar,2018,Kings XI Punjab,0.2,0.2,sold
+Anukul Roy,2018,Mumbai Indians,0.2,0.2,sold
+Mark Wood,2018,Chennai Super Kings,1.5,1.5,sold
+Mahipal Lomror,2018,Rajasthan Royals,0.2,0.2,sold
+Mohsin Khan,2018,Mumbai Indians,0.2,0.2,sold
+Mehdi Hasan,2018,Sunrisers Hyderabad,0.2,0.2,sold
+Kshitiz Sharma,2018,Chennai Super Kings,0.2,0.2,sold
+Monu Kumar,2018,Chennai Super Kings,0.2,0.2,sold
+Chaitanya Bishnoi,2018,Chennai Super Kings,0.2,0.2,sold
+Jatin Saxena,2018,Rajasthan Royals,0.2,0.2,sold
+Aryaman Birla,2018,Rajasthan Royals,0.2,0.3,sold
+Pavan Deshpande,2018,Royal Challengers Bangalore,0.2,0.2,sold
+Chris Gayle,2018,Kings XI Punjab,2.0,2.0,sold
+Dushmantha Chameera,2018,Rajasthan Royals,0.5,0.5,sold
+M. D. Nidheesh,2018,Mumbai Indians,0.2,0.2,sold
+Manzoor Dar,2018,Kings XI Punjab,0.2,0.2,sold
+Javon Searles,2018,Kolkata Knight Riders,0.3,0.3,sold
+Hanuma Vihari,2019,Delhi Capitals,0.5,2.0,sold
+Shimron Hetmyer,2019,Royal Challengers Bangalore,0.5,4.2,sold
+Carlos Brathwaite,2019,Kolkata Knight Riders,0.75,5.0,sold
+Gurkeerat Singh,2019,Royal Challengers Bangalore,0.5,0.5,sold
+Moises Henriques,2019,Kings XI Punjab,1.0,1.0,sold
+Axar Patel,2019,Delhi Capitals,1.0,5.0,sold
+Jonny Bairstow,2019,Sunrisers Hyderabad,1.5,2.2,sold
+Nicholas Pooran,2019,Kings XI Punjab,0.75,4.2,sold
+Wriddhiman Saha,2019,Sunrisers Hyderabad,1.0,1.2,sold
+Jaydev Unadkat,2019,Rajasthan Royals,1.5,8.4,sold
+Ishant Sharma,2019,Delhi Capitals,0.75,1.1,sold
+Lasith Malinga,2019,Mumbai Indians,2.0,2.0,sold
+Mohammad Shami,2019,Kings XI Punjab,1.0,4.8,sold
+Varun Aaron,2019,Rajasthan Royals,0.5,2.4,sold
+Mohit Sharma,2019,Chennai Super Kings,0.5,5.0,sold
+Devdutt Padikkal,2019,Royal Challengers Bangalore,0.2,0.2,sold
+Anmolpreet Singh,2019,Mumbai Indians,0.2,0.8,sold
+Sarfaraz Khan,2019,Kings XI Punjab,0.2,0.25,sold
+Shivam Dube,2019,Royal Challengers Bangalore,0.2,5.0,sold
+Varun Chakravarthy,2019,Kings XI Punjab,0.2,8.4,sold
+Ankush Bains,2019,Delhi Capitals,0.2,0.2,sold
+Nathu Singh,2019,Delhi Capitals,0.2,0.2,sold
+Colin Ingram,2019,Delhi Capitals,2.0,6.4,sold
+Sam Curran,2019,Kings XI Punjab,2.0,7.2,sold
+Heinrich Klaasen,2019,Royal Challengers Bangalore,0.5,0.5,sold
+Barinder Sran,2019,Mumbai Indians,0.5,3.4,sold
+Lockie Ferguson,2019,Kolkata Knight Riders,1.0,1.6,sold
+Sherfane Rutherford,2019,Delhi Capitals,0.4,2.0,sold
+Anrich Nortje,2019,Kolkata Knight Riders,0.2,0.2,sold
+Oshane Thomas,2019,Rajasthan Royals,0.5,1.1,sold
+Hardus Viljoen,2019,Kings XI Punjab,0.75,0.75,sold
+Himmat Singh,2019,Royal Challengers Bangalore,0.2,0.65,sold
+Nikhil Naik,2019,Kolkata Knight Riders,0.2,0.2,sold
+Arshdeep Singh,2019,Kings XI Punjab,0.2,0.2,sold
+Harry Gurney,2019,Kolkata Knight Riders,0.75,0.75,sold
+Pankaj Jaiswal,2019,Mumbai Indians,0.2,0.2,sold
+Milind Kumar,2019,Royal Challengers Bangalore,0.2,0.2,sold
+Darshan Nalkande,2019,Kings XI Punjab,0.2,0.3,sold
+Shashank Singh,2019,Rajasthan Royals,0.2,0.3,sold
+Prab Simran Singh,2019,Kings XI Punjab,0.2,4.8,sold
+Rasikh Salam,2019,Mumbai Indians,0.2,0.2,sold
+Prithvi Raj Yarra,2019,Kolkata Knight Riders,0.2,0.2,sold
+Liam Livingstone,2019,Rajasthan Royals,0.5,0.5,sold
+Keemo Paul,2019,Delhi Capitals,0.5,0.5,sold
+Prayas Ray Barman,2019,Royal Challengers Bangalore,0.2,1.5,sold
+Agnivesh Ayachi,2019,Kings XI Punjab,0.2,0.2,sold
+Harpreet Brar,2019,Kings XI Punjab,0.2,0.2,sold
+Martin Guptill,2019,Sunrisers Hyderabad,1.0,1.0,sold
+Yuvraj Singh,2019,Mumbai Indians,1.0,1.0,sold
+Akshdeep Nath,2019,Royal Challengers Bangalore,0.2,3.6,sold
+Jalaj Saxena,2019,Delhi Capitals,0.2,0.2,sold
+Murugan Ashwin,2019,Kings XI Punjab,0.2,0.2,sold
+Ruturaj Gaikwad,2019,Chennai Super Kings,0.2,0.2,sold
+Shubham Ranjane,2019,Rajasthan Royals,0.2,0.2,sold
+Joe Denly,2019,Kolkata Knight Riders,1.0,1.0,sold
+Bandaru Ayyappa,2019,Delhi Capitals,0.2,0.2,sold
+Shrikant Mundhe,2019,Kolkata Knight Riders,0.2,0.2,sold
+Manan Vohra,2019,Rajasthan Royals,0.2,0.2,sold
+Ashton Turner,2019,Rajasthan Royals,0.5,0.5,sold
+Riyan Parag,2019,Rajasthan Royals,0.2,0.2,sold
+Chris Lynn,2020,Mumbai Indians,2.0,2.0,sold
+Eoin Morgan,2020,Kolkata Knight Riders,2.0,5.25,sold
+Robin Uthappa,2020,Rajasthan Royals,1.5,3.0,sold
+Jason Roy,2020,Delhi Capitals,1.5,1.5,sold
+Aaron Finch,2020,Royal Challengers Bangalore,1.0,4.4,sold
+Glenn Maxwell,2020,Kings XI Punjab,2.0,10.75,sold
+Chris Woakes,2020,Delhi Capitals,1.5,1.5,sold
+Pat Cummins,2020,Kolkata Knight Riders,2.0,15.5,sold
+Sam Curran,2020,Chennai Super Kings,1.0,5.5,sold
+Chris Morris,2020,Royal Challengers Bangalore,1.5,10.0,sold
+Alex Carey,2020,Delhi Capitals,0.5,2.4,sold
+Jaydev Unadkat,2020,Rajasthan Royals,1.0,3.0,sold
+Nathan Coulter-Nile,2020,Mumbai Indians,1.0,8.0,sold
+Sheldon Cottrell,2020,Kings XI Punjab,0.5,8.5,sold
+Piyush Chawla,2020,Chennai Super Kings,1.0,6.75,sold
+Rahul Tripathi,2020,Kolkata Knight Riders,0.2,0.6,sold
+Virat Singh,2020,Sunrisers Hyderabad,0.2,1.9,sold
+Priyam Garg,2020,Sunrisers Hyderabad,0.2,1.9,sold
+Deepak Hooda,2020,Kings XI Punjab,0.4,0.5,sold
+Varun Chakravarthy,2020,Kolkata Knight Riders,0.3,4.0,sold
+Yashasvi Jaiswal,2020,Rajasthan Royals,0.2,2.4,sold
+Anuj Rawat,2020,Rajasthan Royals,0.2,0.8,sold
+Akash Singh,2020,Rajasthan Royals,0.2,0.2,sold
+Kartik Tyagi,2020,Rajasthan Royals,0.2,1.3,sold
+Ishan Porel,2020,Kings XI Punjab,0.2,0.2,sold
+M Siddharth,2020,Kolkata Knight Riders,0.2,0.2,sold
+Ravi Bishnoi,2020,Kings XI Punjab,0.2,2.0,sold
+Shimron Hetmyer,2020,Delhi Capitals,0.5,7.75,sold
+David Miller,2020,Rajasthan Royals,0.75,0.75,sold
+Saurabh Tiwary,2020,Mumbai Indians,0.5,0.5,sold
+Mitchell Marsh,2020,Sunrisers Hyderabad,2.0,2.0,sold
+James Neesham,2020,Kings XI Punjab,0.5,0.5,sold
+Josh Hazlewood,2020,Chennai Super Kings,2.0,2.0,sold
+Bavanaka Sandeep,2020,Sunrisers Hyderabad,0.2,0.2,sold
+Chris Green,2020,Kolkata Knight Riders,0.2,0.2,sold
+Josh Philippe,2020,Royal Challengers Bangalore,0.2,0.2,sold
+Mohsin Khan,2020,Mumbai Indians,0.2,0.2,sold
+Tom Banton,2020,Kolkata Knight Riders,1.0,1.0,sold
+Fabian Allen,2020,Sunrisers Hyderabad,0.5,0.5,sold
+Chris Jordan,2020,Kings XI Punjab,0.75,3.0,sold
+Kane Richardson,2020,Royal Challengers Bangalore,1.5,4.0,sold
+Oshane Thomas,2020,Rajasthan Royals,0.5,0.5,sold
+Pravin Tambe,2020,Kolkata Knight Riders,0.2,0.2,sold
+Tajinder Singh Dhillon,2020,Kings XI Punjab,0.2,0.2,sold
+Abdul Samad,2020,Sunrisers Hyderabad,0.2,0.2,sold
+Aniruddha Joshi,2020,Rajasthan Royals,0.2,0.2,sold
+Digvijay Deshmukh,2020,Mumbai Indians,0.2,0.2,sold
+Prince Balwant Rai,2020,Mumbai Indians,0.2,0.2,sold
+Sanjay Yadav,2020,Sunrisers Hyderabad,0.2,0.2,sold
+Mohit Sharma,2020,Delhi Capitals,0.5,0.5,sold
+Pavan Deshpande,2020,Royal Challengers Bangalore,0.2,0.2,sold
+Prab Simran Singh,2020,Kings XI Punjab,0.2,0.55,sold
+Tushar Deshpande,2020,Delhi Capitals,0.2,0.2,sold
+R Sai Kishore,2020,Chennai Super Kings,0.2,0.2,sold
+Marcus Stoinis,2020,Delhi Capitals,1.0,4.8,sold
+Dale Steyn,2020,Royal Challengers Bangalore,2.0,2.0,sold
+Andrew Tye,2020,Rajasthan Royals,1.0,1.0,sold
+Lalit Yadav,2020,Delhi Capitals,0.2,0.2,sold
+Shahbaz Ahmed,2020,Royal Challengers Bangalore,0.2,0.2,sold
+Nikhil Naik,2020,Kolkata Knight Riders,0.2,0.2,sold
+Tom Curran,2020,Rajasthan Royals,1.0,1.0,sold
+Isuru Udana,2020,Royal Challengers Bangalore,0.5,0.5,sold
+Steve Smith,2021,Delhi Capitals,2.0,2.2,sold
+Glenn Maxwell,2021,Royal Challengers Bangalore,2.0,14.25,sold
+Shakib Al Hasan,2021,Kolkata Knight Riders,2.0,3.2,sold
+Moeen Ali,2021,Chennai Super Kings,2.0,7.0,sold
+Shivam Dube,2021,Rajasthan Royals,0.5,4.4,sold
+Chris Morris,2021,Rajasthan Royals,0.75,16.25,sold
+Dawid Malan,2021,Punjab Kings,1.5,1.5,sold
+Adam Milne,2021,Mumbai Indians,0.5,3.2,sold
+Mustafizur Rahman,2021,Rajasthan Royals,1.0,1.0,sold
+Jhye Richardson,2021,Punjab Kings,1.5,14.0,sold
+Nathan Coulter-Nile,2021,Mumbai Indians,1.5,5.0,sold
+Umesh Yadav,2021,Delhi Capitals,1.0,1.0,sold
+Piyush Chawla,2021,Mumbai Indians,0.5,2.4,sold
+Sachin Baby,2021,Royal Challengers Bangalore,0.2,0.2,sold
+Rajat Patidar,2021,Royal Challengers Bangalore,0.2,0.2,sold
+Ripal Patel,2021,Delhi Capitals,0.2,0.2,sold
+Shahrukh Khan,2021,Punjab Kings,0.2,5.25,sold
+Krishnappa Gowtham,2021,Chennai Super Kings,0.2,9.25,sold
+Vishnu Vinod,2021,Delhi Capitals,0.2,0.2,sold
+Sheldon Jackson,2021,Kolkata Knight Riders,0.2,0.2,sold
+Mohammed Azharuddeen,2021,Royal Challengers Bangalore,0.2,0.2,sold
+Lukman Hussain Meriwala,2021,Delhi Capitals,0.2,0.2,sold
+Chetan Sakariya,2021,Rajasthan Royals,0.2,1.2,sold
+Riley Meredith,2021,Punjab Kings,0.4,8.0,sold
+Manimaran Siddharth,2021,Delhi Capitals,0.2,0.2,sold
+Jagadeesha Suchith,2021,Sunrisers Hyderabad,0.2,0.3,sold
+K. C. Cariappa,2021,Rajasthan Royals,0.2,0.2,sold
+Cheteshwar Pujara,2021,Chennai Super Kings,0.5,0.5,sold
+Kyle Jamieson,2021,Royal Challengers Bangalore,0.75,15.0,sold
+Tom Curran,2021,Delhi Capitals,1.5,5.25,sold
+Moises Henriques,2021,Punjab Kings,1.0,4.2,sold
+Jalaj Saxena,2021,Punjab Kings,0.2,0.3,sold
+Utkarsh Singh,2021,Punjab Kings,0.2,0.2,sold
+Vaibhav Arora,2021,Kolkata Knight Riders,0.2,0.2,sold
+Fabian Allen,2021,Punjab Kings,0.75,0.75,sold
+Dan Christian,2021,Royal Challengers Bangalore,0.75,4.8,sold
+Liam Livingstone,2021,Rajasthan Royals,0.75,0.75,sold
+Suyash Prabhudessai,2021,Royal Challengers Bangalore,0.2,0.2,sold
+Kona Srikar Bharat,2021,Royal Challengers Bangalore,0.2,0.2,sold
+Harishankar Reddy,2021,Chennai Super Kings,0.2,0.2,sold
+Kuldip Yadav,2021,Rajasthan Royals,0.2,0.2,sold
+James Neesham,2021,Mumbai Indians,0.5,0.5,sold
+Yudhvir Charak,2021,Mumbai Indians,0.2,0.2,sold
+Bhagath Varma,2021,Chennai Super Kings,0.2,0.2,sold
+Marco Jansen,2021,Mumbai Indians,0.2,0.2,sold
+Saurabh Kumar,2021,Punjab Kings,0.2,0.2,sold
+Karun Nair,2021,Kolkata Knight Riders,0.5,0.5,sold
+Kedar Jadhav,2021,Sunrisers Hyderabad,2.0,2.0,sold
+Sam Billings,2021,Delhi Capitals,2.0,2.0,sold
+Mujeeb Ur Rahman,2021,Sunrisers Hyderabad,1.5,1.5,sold
+Harbhajan Singh,2021,Kolkata Knight Riders,2.0,2.0,sold
+Chezhian Harinishanth,2021,Chennai Super Kings,0.2,0.2,sold
+Ben Cutting,2021,Kolkata Knight Riders,0.75,0.75,sold
+Venkatesh Iyer,2021,Kolkata Knight Riders,0.2,0.2,sold
+Pawan Negi,2021,Kolkata Knight Riders,0.5,0.5,sold
+Akash Singh,2021,Rajasthan Royals,0.2,0.2,sold
+Arjun Tendulkar,2021,Mumbai Indians,0.2,0.2,sold
+Shikhar Dhawan,2022,Punjab Kings,2.0,8.25,sold
+Ravichandran Ashwin,2022,Rajasthan Royals,2.0,5.0,sold
+Pat Cummins,2022,Kolkata Knight Riders,2.0,7.25,sold
+Kagiso Rabada,2022,Punjab Kings,2.0,9.25,sold
+Trent Boult,2022,Rajasthan Royals,2.0,8.0,sold
+Shreyas Iyer,2022,Kolkata Knight Riders,2.0,12.25,sold
+Mohammed Shami,2022,Gujarat Titans,2.0,6.25,sold
+Faf du Plessis,2022,Royal Challengers Bangalore,2.0,7.0,sold
+Quinton de Kock,2022,Lucknow Super Giants,2.0,6.75,sold
+David Warner,2022,Delhi Capitals,2.0,6.25,sold
+Manish Pandey,2022,Lucknow Super Giants,1.5,4.6,sold
+Shimron Hetmyer,2022,Rajasthan Royals,1.5,8.5,sold
+Robin Uthappa,2022,Chennai Super Kings,2.0,2.0,sold
+Jason Roy,2022,Gujarat Titans,2.0,2.0,sold
+Devdutt Padikkal,2022,Rajasthan Royals,1.5,7.75,sold
+Dwayne Bravo,2022,Chennai Super Kings,1.5,4.4,sold
+Nitish Rana,2022,Kolkata Knight Riders,1.5,8.0,sold
+Jason Holder,2022,Lucknow Super Giants,1.5,8.75,sold
+Harshal Patel,2022,Royal Challengers Bangalore,1.5,10.75,sold
+Deepak Hooda,2022,Lucknow Super Giants,0.75,5.75,sold
+Wanindu Hasaranga,2022,Royal Challengers Bangalore,1.0,10.75,sold
+Washington Sundar,2022,Sunrisers Hyderabad,1.5,8.75,sold
+Krunal Pandya,2022,Lucknow Super Giants,2.0,8.25,sold
+Mitchell Marsh,2022,Delhi Capitals,2.0,6.5,sold
+Ambati Rayudu,2022,Chennai Super Kings,2.0,6.75,sold
+Ishan Kishan,2022,Mumbai Indians,1.5,15.25,sold
+Jonny Bairstow,2022,Punjab Kings,1.0,6.75,sold
+Dinesh Karthik,2022,Royal Challengers Bangalore,2.0,5.5,sold
+Nicholas Pooran,2022,Sunrisers Hyderabad,1.5,10.75,sold
+T. Natarajan,2022,Sunrisers Hyderabad,1.0,4.0,sold
+Deepak Chahar,2022,Chennai Super Kings,2.0,14.0,sold
+Prasidh Krishna,2022,Rajasthan Royals,1.0,10.0,sold
+Lockie Ferguson,2022,Gujarat Titans,2.0,10.0,sold
+Josh Hazlewood,2022,Royal Challengers Bangalore,1.5,7.75,sold
+Mark Wood,2022,Lucknow Super Giants,2.0,7.5,sold
+Bhuvneshwar Kumar,2022,Sunrisers Hyderabad,2.0,4.2,sold
+Shardul Thakur,2022,Delhi Capitals,2.0,10.75,sold
+Mustafizur Rahman,2022,Delhi Capitals,2.0,2.0,sold
+Kuldeep Yadav,2022,Delhi Capitals,1.0,2.0,sold
+Rahul Chahar,2022,Punjab Kings,0.75,5.25,sold
+Yuzvendra Chahal,2022,Rajasthan Royals,2.0,6.5,sold
+Priyam Garg,2022,Sunrisers Hyderabad,0.2,0.2,sold
+Abhinav Manohar Sadarangani,2022,Gujarat Titans,0.2,2.6,sold
+Dewald Brevis,2022,Mumbai Indians,0.2,3.0,sold
+Ashwin Hebbar,2022,Delhi Capitals,0.2,0.2,sold
+Rahul Tripathi,2022,Sunrisers Hyderabad,0.4,8.5,sold
+Riyan Parag,2022,Rajasthan Royals,0.3,3.8,sold
+Abhishek Sharma,2022,Sunrisers Hyderabad,0.2,6.5,sold
+Sarfaraz Khan,2022,Delhi Capitals,0.2,0.2,sold
+M. Shahrukh Khan,2022,Punjab Kings,0.4,9.0,sold
+Shivam Mavi,2022,Kolkata Knight Riders,0.4,7.25,sold
+Rahul Tewatia,2022,Gujarat Titans,0.4,9.0,sold
+Kamlesh Nagarkoti,2022,Delhi Capitals,0.4,1.1,sold
+Harpreet Brar,2022,Punjab Kings,0.2,3.8,sold
+Shahbaz Ahmed,2022,Royal Challengers Bangalore,0.3,2.4,sold
+K. S. Bharat,2022,Delhi Capitals,0.2,2.0,sold
+Anuj Rawat,2022,Royal Challengers Bangalore,0.2,3.4,sold
+Prabhsimran Singh,2022,Punjab Kings,0.2,0.6,sold
+Sheldon Jackson,2022,Kolkata Knight Riders,0.3,0.6,sold
+Jitesh Sharma,2022,Punjab Kings,0.2,0.2,sold
+Basil Thampi,2022,Mumbai Indians,0.3,0.3,sold
+Kartik Tyagi,2022,Sunrisers Hyderabad,0.2,4.0,sold
+Akash Deep,2022,Royal Challengers Bangalore,0.2,0.2,sold
+KM Asif,2022,Chennai Super Kings,0.2,0.2,sold
+Avesh Khan,2022,Lucknow Super Giants,0.2,10.0,sold
+Ishan Porel,2022,Punjab Kings,0.2,0.25,sold
+Tushar Deshpande,2022,Chennai Super Kings,0.2,0.2,sold
+Ankit Rajpoot,2022,Lucknow Super Giants,0.2,0.5,sold
+Noor Ahmad,2022,Gujarat Titans,0.3,0.3,sold
+Murugan Ashwin,2022,Mumbai Indians,0.2,1.6,sold
+K. C. Cariappa,2022,Rajasthan Royals,0.2,0.3,sold
+Shreyas Gopal,2022,Sunrisers Hyderabad,0.2,0.75,sold
+Jagadeesha Suchith,2022,Sunrisers Hyderabad,0.2,0.2,sold
+Ravisrinivasan Sai Kishore,2022,Gujarat Titans,0.2,3.0,sold
+Aiden Markram,2022,Sunrisers Hyderabad,1.0,2.6,sold
+Ajinkya Rahane,2022,Kolkata Knight Riders,1.0,1.0,sold
+Mandeep Singh,2022,Delhi Capitals,0.5,1.1,sold
+Liam Livingstone,2022,Punjab Kings,1.0,11.5,sold
+Dominic Drakes,2022,Gujarat Titans,0.75,1.1,sold
+Jayant Yadav,2022,Gujarat Titans,1.0,1.7,sold
+Vijay Shankar,2022,Gujarat Titans,0.5,1.4,sold
+Odean Smith,2022,Punjab Kings,1.0,6.0,sold
+Marco Jansen,2022,Sunrisers Hyderabad,0.5,4.2,sold
+Shivam Dube,2022,Chennai Super Kings,0.5,4.0,sold
+Krishnappa Gowtham,2022,Lucknow Super Giants,0.5,0.9,sold
+Khaleel Ahmed,2022,Delhi Capitals,0.5,5.25,sold
+Dushmantha Chameera,2022,Lucknow Super Giants,0.5,2.0,sold
+Chetan Sakariya,2022,Delhi Capitals,0.5,4.2,sold
+Sandeep Sharma,2022,Punjab Kings,0.5,0.5,sold
+Navdeep Saini,2022,Rajasthan Royals,0.75,2.6,sold
+Jaydev Unadkat,2022,Mumbai Indians,0.75,1.3,sold
+Mayank Markande,2022,Mumbai Indians,0.5,0.65,sold
+Shahbaz Nadeem,2022,Lucknow Super Giants,0.5,0.5,sold
+Maheesh Theekshana,2022,Chennai Super Kings,0.5,0.7,sold
+Rinku Singh,2022,Kolkata Knight Riders,0.2,0.55,sold
+Manan Vohra,2022,Lucknow Super Giants,0.2,0.2,sold
+Lalit Yadav,2022,Delhi Capitals,0.2,0.65,sold
+Ripal Patel,2022,Delhi Capitals,0.2,0.2,sold
+Yash Dhull,2022,Delhi Capitals,0.2,0.5,sold
+Tilak Varma,2022,Mumbai Indians,0.2,1.7,sold
+Mahipal Lomror,2022,Royal Challengers Bangalore,0.4,0.95,sold
+Anukul Roy,2022,Kolkata Knight Riders,0.2,0.2,sold
+Darshan Nalkande,2022,Gujarat Titans,0.2,0.2,sold
+R. Sanjay Yadav,2022,Mumbai Indians,0.2,0.5,sold
+Raj Angad Bawa,2022,Punjab Kings,0.2,2.0,sold
+Rajvardhan Hangargekar,2022,Chennai Super Kings,0.3,1.5,sold
+Yash Dayal,2022,Gujarat Titans,0.2,3.2,sold
+Simarjeet Singh,2022,Chennai Super Kings,0.2,0.2,sold
+Finn Allen,2022,Royal Challengers Bangalore,0.5,0.8,sold
+Devon Conway,2022,Chennai Super Kings,1.0,1.0,sold
+Rovman Powell,2022,Delhi Capitals,0.75,2.8,sold
+Jofra Archer,2022,Mumbai Indians,2.0,8.0,sold
+Rishi Dhawan,2022,Punjab Kings,0.5,0.55,sold
+Dwaine Pretorius,2022,Chennai Super Kings,0.5,0.5,sold
+Sherfane Rutherford,2022,Royal Challengers Bangalore,1.0,1.0,sold
+Daniel Sams,2022,Mumbai Indians,1.0,2.6,sold
+Mitchell Santner,2022,Chennai Super Kings,1.0,1.9,sold
+Romario Shepherd,2022,Sunrisers Hyderabad,0.75,7.75,sold
+Jason Behrendorff,2022,Royal Challengers Bangalore,0.75,0.75,sold
+Obed McCoy,2022,Rajasthan Royals,0.75,0.75,sold
+Tymal Mills,2022,Mumbai Indians,1.0,1.5,sold
+Adam Milne,2022,Chennai Super Kings,1.5,1.9,sold
+Subhranshu Senapati,2022,Chennai Super Kings,0.2,0.2,sold
+Tim David,2022,Mumbai Indians,0.4,8.25,sold
+Pravin Dubey,2022,Delhi Capitals,0.2,0.5,sold
+Prerak Mankad,2022,Punjab Kings,0.2,0.2,sold
+Suyash Prabhudessai,2022,Royal Challengers Bangalore,0.2,0.3,sold
+Vaibhav Arora,2022,Punjab Kings,0.2,2.0,sold
+Mukesh Choudhary,2022,Chennai Super Kings,0.2,0.2,sold
+Rasikh Salam Dar,2022,Kolkata Knight Riders,0.2,0.2,sold
+Mohsin Khan,2022,Lucknow Super Giants,0.2,0.2,sold
+Chama Milind,2022,Royal Challengers Bangalore,0.2,0.25,sold
+Prashant Solanki,2022,Chennai Super Kings,0.2,1.2,sold
+Sean Abbott,2022,Sunrisers Hyderabad,0.2,2.4,sold
+Alzarri Joseph,2022,Gujarat Titans,0.75,2.4,sold
+Riley Meredith,2022,Mumbai Indians,1.0,1.0,sold
+Ayush Badoni,2022,Lucknow Super Giants,0.2,0.2,sold
+Aneeshwar Gautam,2022,Royal Challengers Bangalore,1.0,1.0,sold
+Baba Indrajith,2022,Kolkata Knight Riders,0.2,0.2,sold
+Chamika Karunaratne,2022,Kolkata Knight Riders,0.5,0.5,sold
+Ravikumar Samarth,2022,Sunrisers Hyderabad,0.2,0.2,sold
+Abhijeet Tomar,2022,Kolkata Knight Riders,0.2,0.4,sold
+Pradeep Sangwan,2022,Gujarat Titans,0.2,0.2,sold
+Writtick Chatterjee,2022,Punjab Kings,0.2,0.2,sold
+Pratham Singh,2022,Kolkata Knight Riders,0.2,0.2,sold
+Shashank Singh,2022,Sunrisers Hyderabad,0.2,0.2,sold
+Kyle Mayers,2022,Lucknow Super Giants,0.5,0.5,sold
+Karan Sharma,2022,Lucknow Super Giants,0.2,0.2,sold
+Baltej Singh,2022,Punjab Kings,0.2,0.2,sold
+Saurabh Dubey,2022,Sunrisers Hyderabad,0.2,0.2,sold
+Mohammed Arshad Khan,2022,Mumbai Indians,0.2,0.2,sold
+Ansh Patel,2022,Punjab Kings,0.2,0.2,sold
+Ashok Sharma,2022,Kolkata Knight Riders,0.2,0.5,sold
+Anunay Singh,2022,Rajasthan Royals,0.2,0.2,sold
+David Miller,2022,Gujarat Titans,1.0,3.0,sold
+Sam Billings,2022,Kolkata Knight Riders,2.0,2.0,sold
+Wriddhiman Saha,2022,Gujarat Titans,1.0,1.9,sold
+Matthew Wade,2022,Gujarat Titans,2.0,2.4,sold
+C. Hari Nishanth,2022,Chennai Super Kings,0.2,0.2,sold
+Anmolpreet Singh,2022,Mumbai Indians,0.2,0.2,sold
+Narayan Jagadeesan,2022,Chennai Super Kings,0.2,0.2,sold
+Vishnu Vinod,2022,Sunrisers Hyderabad,0.2,0.5,sold
+Chris Jordan,2022,Chennai Super Kings,2.0,3.6,sold
+Lungi Ngidi,2022,Delhi Capitals,0.5,0.5,sold
+Karn Sharma,2022,Royal Challengers Bangalore,0.5,0.5,sold
+Kuldeep Sen,2022,Rajasthan Royals,0.2,0.2,sold
+Alex Hales,2022,Kolkata Knight Riders,1.5,1.5,sold
+Evin Lewis,2022,Lucknow Super Giants,2.0,2.0,sold
+Karun Nair,2022,Rajasthan Royals,0.5,1.4,sold
+Glenn Phillips,2022,Sunrisers Hyderabad,1.5,1.5,sold
+Tim Seifert,2022,Delhi Capitals,0.5,0.5,sold
+Nathan Ellis,2022,Punjab Kings,0.75,0.75,sold
+Fazalhaq Farooqi,2022,Sunrisers Hyderabad,0.5,0.5,sold
+Ramandeep Singh,2022,Mumbai Indians,0.2,0.2,sold
+Atharva Taide,2022,Punjab Kings,0.2,0.2,sold
+Dhruv Jurel,2022,Rajasthan Royals,0.2,0.2,sold
+Mayank Yadav,2022,Lucknow Super Giants,0.2,0.2,sold
+Tejas Baroka,2022,Rajasthan Royals,0.2,0.2,sold
+Bhanuka Rajapaksa,2022,Punjab Kings,0.5,0.5,sold
+Gurkeerat Singh,2022,Gujarat Titans,0.5,0.5,sold
+Tim Southee,2022,Kolkata Knight Riders,1.5,1.5,sold
+Rahul Buddhi,2022,Mumbai Indians,0.2,0.2,sold
+Benny Howell,2022,Punjab Kings,0.4,0.4,sold
+Kuldip Yadav,2022,Rajasthan Royals,0.2,0.2,sold
+Varun Aaron,2022,Gujarat Titans,0.5,0.5,sold
+Ramesh Kumar,2022,Kolkata Knight Riders,0.2,0.2,sold
+Hrithik Shokeen,2022,Mumbai Indians,0.2,0.2,sold
+K. Bhagath Varma,2022,Chennai Super Kings,0.2,0.2,sold
+Arjun Tendulkar,2022,Mumbai Indians,0.2,0.3,sold
+Shubham Garhwal,2022,Rajasthan Royals,0.2,0.2,sold
+Mohammad Nabi,2022,Kolkata Knight Riders,1.0,1.0,sold
+Umesh Yadav,2022,Kolkata Knight Riders,2.0,2.0,sold
+James Neesham,2022,Rajasthan Royals,1.5,1.5,sold
+Nathan Coulter-Nile,2022,Rajasthan Royals,2.0,2.0,sold
+Vicky Ostwal,2022,Delhi Capitals,0.2,0.2,sold
+Rassie van der Dussen,2022,Rajasthan Royals,1.0,1.0,sold
+Daryl Mitchell,2022,Rajasthan Royals,0.75,0.75,sold
+Siddharth Kaul,2022,Royal Challengers Bangalore,0.75,0.75,sold
+B. Sai Sudharshan,2022,Gujarat Titans,0.2,0.2,sold
+Aryan Juyal,2022,Mumbai Indians,0.2,0.2,sold
+Luvnith Sisodia,2022,Royal Challengers Bangalore,0.2,0.2,sold
+Fabian Allen,2022,Mumbai Indians,0.75,0.75,sold
+David Willey,2022,Royal Challengers Bangalore,2.0,2.0,sold
+Aman Khan,2022,Kolkata Knight Riders,0.2,0.2,sold
+Kane Williamson,2023,Gujarat Titans,2.0,2.0,sold
+Harry Brook,2023,Sunrisers Hyderabad,1.5,13.25,sold
+Mayank Agarwal,2023,Sunrisers Hyderabad,1.0,8.25,sold
+Ajinkya Rahane,2023,Chennai Super Kings,0.5,0.5,sold
+Sam Curran,2023,Punjab Kings,2.0,18.5,sold
+Odean Smith,2023,Gujarat Titans,0.5,0.5,sold
+Sikandar Raza,2023,Punjab Kings,0.5,0.5,sold
+Jason Holder,2023,Rajasthan Royals,2.0,5.75,sold
+Cameron Green,2023,Mumbai Indians,2.0,17.5,sold
+Ben Stokes,2023,Chennai Super Kings,2.0,16.25,sold
+Nicholas Pooran,2023,Lucknow Super Giants,2.0,16.0,sold
+Heinrich Klaasen,2023,Sunrisers Hyderabad,1.0,5.25,sold
+Phil Salt,2023,Delhi Capitals,2.0,2.0,sold
+Reece Topley,2023,Royal Challengers Bangalore,0.75,1.9,sold
+Jaydev Unadkat,2023,Lucknow Super Giants,0.5,0.5,sold
+Jhye Richardson,2023,Mumbai Indians,1.5,1.5,sold
+Ishant Sharma,2023,Delhi Capitals,0.5,0.5,sold
+Adil Rashid,2023,Sunrisers Hyderabad,2.0,2.0,sold
+Mayank Markande,2023,Sunrisers Hyderabad,0.5,0.5,sold
+Shaik Rasheed,2023,Chennai Super Kings,0.2,0.2,sold
+Vivrant Sharma,2023,Sunrisers Hyderabad,0.2,2.6,sold
+Samarth Vyas,2023,Sunrisers Hyderabad,0.2,0.2,sold
+Sanvir Singh,2023,Sunrisers Hyderabad,0.2,0.2,sold
+Nishant Sindhu,2023,Chennai Super Kings,0.2,0.6,sold
+N Jagadeesan,2023,Kolkata Knight Riders,0.2,0.9,sold
+K. S. Bharat,2023,Gujarat Titans,0.2,1.2,sold
+Upendra Yadav,2023,Sunrisers Hyderabad,0.2,0.25,sold
+Vaibhav Arora,2023,Kolkata Knight Riders,0.2,0.6,sold
+Yash Thakur,2023,Lucknow Super Giants,0.2,0.45,sold
+Shivam Mavi,2023,Gujarat Titans,0.4,6.0,sold
+Mukesh Kumar,2023,Delhi Capitals,0.2,5.5,sold
+Himanshu Sharma,2023,Royal Challengers Bangalore,0.2,0.2,sold
+Manish Pandey,2023,Delhi Capitals,1.0,2.4,sold
+Will Jacks,2023,Royal Challengers Bangalore,1.5,3.2,sold
+Romario Shepherd,2023,Lucknow Super Giants,0.5,0.5,sold
+Daniel Sams,2023,Lucknow Super Giants,0.75,0.75,sold
+Kyle Jamieson,2023,Chennai Super Kings,1.0,1.0,sold
+Piyush Chawla,2023,Mumbai Indians,0.5,0.5,sold
+Amit Mishra,2023,Lucknow Super Giants,0.5,0.5,sold
+Harpreet Singh Bhatia,2023,Punjab Kings,0.2,0.4,sold
+Manoj Bhandage,2023,Royal Challengers Bangalore,0.2,0.2,sold
+Mayank Dagar,2023,Sunrisers Hyderabad,0.2,1.8,sold
+Duan Jansen,2023,Mumbai Indians,0.2,0.2,sold
+Prerak Mankad,2023,Lucknow Super Giants,0.2,1.8,sold
+Donavon Ferreira,2023,Rajasthan Royals,0.2,0.2,sold
+Urvil Patel,2023,Gujarat Titans,0.2,0.2,sold
+Vishnu Vinod,2023,Mumbai Indians,0.2,0.2,sold
+Vidwath Kaverappa,2023,Punjab Kings,0.2,0.2,sold
+Rajan Kumar,2023,Royal Challengers Bangalore,0.2,0.2,sold
+Suyash Sharma,2023,Kolkata Knight Riders,0.2,0.2,sold
+Josh Little,2023,Gujarat Titans,0.5,4.4,sold
+Mohit Sharma,2023,Gujarat Titans,0.5,0.5,sold
+Shams Mulani,2023,Mumbai Indians,0.2,0.2,sold
+Swapnil Singh,2023,Lucknow Super Giants,0.2,0.2,sold
+David Wiese,2023,Kolkata Knight Riders,1.0,1.0,sold
+Nitish Kumar Reddy,2023,Sunrisers Hyderabad,0.2,0.2,sold
+Avinash Singh,2023,Royal Challengers Bangalore,0.2,0.6,sold
+Kunal Rathore,2023,Rajasthan Royals,0.2,0.2,sold
+Sonu Yadav,2023,Royal Challengers Bangalore,0.2,0.2,sold
+Kulwant Khejroliya,2023,Kolkata Knight Riders,0.2,0.2,sold
+Ajay Mandal,2023,Chennai Super Kings,0.2,0.2,sold
+Mohit Rathee,2023,Punjab Kings,0.2,0.2,sold
+Nehal Wadhera,2023,Mumbai Indians,0.2,0.2,sold
+Bhagath Varma,2023,Chennai Super Kings,0.2,0.2,sold
+Shivam Singh,2023,Punjab Kings,0.2,0.2,sold
+Rilee Rossouw,2023,Royal Challengers Bangalore,2.0,4.6,sold
+Litton Das,2023,Kolkata Knight Riders,0.5,0.5,sold
+Akeal Hosein,2023,Sunrisers Hyderabad,1.0,1.0,sold
+Adam Zampa,2023,Rajasthan Royals,1.5,1.5,sold
+Anmolpreet Singh,2023,Sunrisers Hyderabad,0.2,0.2,sold
+KM Asif,2023,Rajasthan Royals,0.2,0.3,sold
+Murugan Ashwin,2023,Rajasthan Royals,0.2,0.2,sold
+Mandeep Singh,2023,Kolkata Knight Riders,0.5,0.5,sold
+Akash Vasisht,2023,Rajasthan Royals,0.2,0.2,sold
+Naveen-ul-Haq,2023,Lucknow Super Giants,0.5,0.5,sold
+Yudhvir Singh Charak,2023,Lucknow Super Giants,0.2,0.2,sold
+Raghav Goyal,2023,Mumbai Indians,0.2,0.2,sold
+Abdul Basith,2023,Rajasthan Royals,0.2,0.2,sold
+Joe Root,2023,Rajasthan Royals,1.0,1.0,sold
+Shakib al Hasan,2023,Kolkata Knight Riders,1.5,1.5,sold
+Abdul Basith,2023,Rajasthan Royals,0.2,0.2,sold
+Joe Root,2023,Rajasthan Royals,1.0,1.0,sold
+Shakib al Hasan,2023,Kolkata Knight Riders,1.5,1.5,sold
+Virat Kohli,2025,RCB,,21.0,sold
+Rajat Patidar,2025,RCB,,11.0,sold
+Yash Dayal,2025,RCB,,5.0,sold
+Jasprit Bumrah,2025,MI,,18.0,sold
+Suryakumar Yadav,2025,MI,,16.35,sold
+Hardik Pandya,2025,MI,,16.35,sold
+Rohit Sharma,2025,MI,,16.3,sold
+Tilak Varma,2025,MI,,8.0,sold
+Heinrich Klaasen,2025,SRH,,23.0,sold
+Pat Cummins,2025,SRH,,18.0,sold
+Abhishek Sharma,2025,SRH,,14.0,sold
+Travis Head,2025,SRH,,14.0,sold
+Nitish Kumar Reddy,2025,SRH,,6.0,sold
+Ruturaj Gaikwad,2025,CSK,,18.0,sold
+Ravindra Jadeja,2025,CSK,,18.0,sold
+Matheesha Pathirana,2025,CSK,,13.0,sold
+Shivam Dube,2025,CSK,,12.0,sold
+MS Dhoni,2025,CSK,,4.0,sold
+Axar Patel,2025,DC,,16.5,sold
+Kuldeep Yadav,2025,DC,,13.25,sold
+Tristan Stubbs,2025,DC,,10.0,sold
+Abishek Porel,2025,DC,,4.0,sold
+Rinku Singh,2025,KKR,,13.0,sold
+Varun Chakravarthy,2025,KKR,,12.0,sold
+Sunil Narine,2025,KKR,,12.0,sold
+Andre Russell,2025,KKR,,12.0,sold
+Harshit Rana,2025,KKR,,4.0,sold
+Ramandeep Singh,2025,KKR,,4.0,sold
+Sanju Samson,2025,RR,,18.0,sold
+Yashasvi Jaiswal,2025,RR,,18.0,sold
+Riyan Parag,2025,RR,,14.0,sold
+Dhruv Jurel,2025,RR,,14.0,sold
+Shimron Hetmyer,2025,RR,,11.0,sold
+Sandeep Sharma,2025,RR,,4.0,sold
+Rashid Khan,2025,GT,,18.0,sold
+Shubman Gill,2025,GT,,16.5,sold
+Sai Sudharsan,2025,GT,,8.5,sold
+Rahul Tewatia,2025,GT,,4.0,sold
+M Shahrukh Khan,2025,GT,,4.0,sold
+Nicholas Pooran,2025,LSG,,21.0,sold
+Ravi Bishnoi,2025,LSG,,11.0,sold
+Mayank Yadav,2025,LSG,,11.0,sold
+Mohsin Khan,2025,LSG,,4.0,sold
+Ayush Badoni,2025,LSG,,4.0,sold
+Shashank Singh,2025,PBKS,,5.5,sold
+Prabhsimran Singh,2025,PBKS,,4.0,sold
+Jos Buttler,2025,GT,2.0,15.75,sold
+Shreyas Iyer,2025,PBKS,2.0,26.75,sold
+Rishabh Pant,2025,LSG,2.0,27.0,sold
+Kagiso Rabada,2025,GT,2.0,10.75,sold
+Arshdeep Singh,2025,PBKS,2.0,18.0,sold
+Mitchell Starc,2025,DC,2.0,11.75,sold
+Yuzvendra Chahal,2025,PBKS,2.0,18.0,sold
+Liam Livingstone,2025,RCB,2.0,8.75,sold
+David Miller,2025,LSG,1.5,7.5,sold
+KL Rahul,2025,DC,2.0,14.0,sold
+Mohammed Shami,2025,SRH,2.0,10.0,sold
+Mohammed Siraj,2025,GT,2.0,12.25,sold
+Harry Brook,2025,DC,2.0,6.25,sold
+Devon Conway,2025,CSK,2.0,6.25,sold
+Jake Fraser-McGurk,2025,DC,2.0,9.0,sold
+Aiden Markram,2025,LSG,2.0,2.0,sold
+Devdutt Padikkal,2025,RCB,2.0,2.0,sold
+Rahul Tripathi,2025,CSK,0.75,3.4,sold
+Ravichandran Ashwin,2025,CSK,2.0,9.75,sold
+Venkatesh Iyer,2025,KKR,2.0,23.75,sold
+Mitchell Marsh,2025,LSG,2.0,3.4,sold
+Glenn Maxwell,2025,PBKS,2.0,4.2,sold
+Harshal Patel,2025,SRH,2.0,8.0,sold
+Rachin Ravindra,2025,CSK,1.5,4.0,sold
+Marcus Stoinis,2025,PBKS,2.0,11.0,sold
+Quinton de Kock,2025,KKR,2.0,3.6,sold
+Rahmanullah Gurbaz,2025,KKR,2.0,2.0,sold
+Ishan Kishan,2025,SRH,2.0,11.25,sold
+Phil Salt,2025,RCB,2.0,11.5,sold
+Jitesh Sharma,2025,RCB,1.0,11.0,sold
+Khaleel Ahmed,2025,CSK,2.0,4.8,sold
+Trent Boult,2025,MI,2.0,12.5,sold
+Josh Hazlewood,2025,RCB,2.0,12.5,sold
+Avesh Khan,2025,LSG,2.0,9.75,sold
+Prasidh Krishna,2025,GT,2.0,9.5,sold
+T Natarajan,2025,DC,2.0,10.75,sold
+Anrich Nortje,2025,KKR,2.0,6.5,sold
+Noor Ahmad,2025,CSK,2.0,10.0,sold
+Rahul Chahar,2025,SRH,1.0,3.2,sold
+Wanindu Hasaranga,2025,RR,2.0,5.25,sold
+Maheesh Theekshana,2025,RR,2.0,4.4,sold
+Adam Zampa,2025,SRH,2.0,2.4,sold
+Abhinav Manohar,2025,SRH,0.3,3.2,sold
+Karun Nair,2025,DC,0.3,0.5,sold
+Angkrish Raghuvanshi,2025,KKR,0.3,3.0,sold
+Atharva Taide,2025,SRH,0.3,0.3,sold
+Nehal Wadhera,2025,PBKS,0.3,4.2,sold
+Harpreet Brar,2025,PBKS,0.3,1.5,sold
+Naman Dhir,2025,MI,0.3,5.25,sold
+Mahipal Lomror,2025,GT,0.5,1.7,sold
+Sameer Rizvi,2025,DC,0.3,0.95,sold
+Abdul Samad,2025,LSG,0.3,4.2,sold
+Vijay Shankar,2025,CSK,0.3,1.2,sold
+Ashutosh Sharma,2025,DC,0.3,3.8,sold
+Nishant Sindhu,2025,GT,0.3,0.3,sold
+Aryan Juyal,2025,LSG,0.3,0.3,sold
+Kumar Kushagra,2025,GT,0.3,0.65,sold
+Robin Minz,2025,MI,0.3,0.65,sold
+Anuj Rawat,2025,GT,0.3,0.3,sold
+Luvnith Sisodia,2025,KKR,0.3,0.3,sold
+Vishnu Vinod,2025,PBKS,0.3,0.95,sold
+Vaibhav Arora,2025,KKR,0.3,1.8,sold
+Rasikh Salam,2025,RCB,0.3,6.0,sold
+Akash Madhwal,2025,RR,0.3,1.2,sold
+Mohit Sharma,2025,DC,0.5,2.2,sold
+Simarjeet Singh,2025,SRH,0.3,1.5,sold
+Yash Thakur,2025,PBKS,0.4,1.6,sold
+Vijaykumar Vyshak,2025,PBKS,0.3,1.8,sold
+Shreyas Gopal,2025,CSK,0.3,0.3,sold
+Mayank Markande,2025,KKR,0.3,0.3,sold
+Suyash Sharma,2025,RCB,0.3,2.6,sold
+Karn Sharma,2025,MI,0.5,0.5,sold
+Kumar Kartikeya,2025,RR,0.3,0.3,sold
+Manav Suthar,2025,GT,0.3,0.3,sold
+Faf du Plessis,2025,DC,2.0,2.0,sold
+Glenn Phillips,2025,GT,2.0,2.0,sold
+Rovman Powell,2025,KKR,1.5,1.5,sold
+Ajinkya Rahane,2025,KKR,1.5,1.5,sold
+Sam Curran,2025,CSK,2.0,2.4,sold
+Marco Jansen,2025,PBKS,1.25,7.0,sold
+Krunal Pandya,2025,RCB,2.0,5.75,sold
+Nitish Rana,2025,RR,1.5,4.2,sold
+Washington Sundar,2025,GT,2.0,3.2,sold
+Donovan Ferreira,2025,DC,0.75,0.75,sold
+Josh Inglis,2025,PBKS,2.0,2.6,sold
+Ryan Rickelton,2025,MI,1.0,1.0,sold
+Deepak Chahar,2025,MI,2.0,9.25,sold
+Gerald Coetzee,2025,GT,1.25,2.4,sold
+Akash Deep,2025,LSG,1.0,8.0,sold
+Tushar Deshpande,2025,RR,1.0,6.5,sold
+Lockie Ferguson,2025,PBKS,2.0,2.0,sold
+Bhuvneshwar Kumar,2025,RCB,2.0,10.75,sold
+Mukesh Kumar,2025,DC,2.0,8.0,sold
+AM Ghazanfar,2025,MI,0.75,4.8,sold
+Swastik Chikara,2025,RCB,0.3,0.3,sold
+Shubham Dubey,2025,RR,0.3,0.8,sold
+Shaik Rasheed,2025,CSK,0.3,0.3,sold
+Himmat Singh,2025,LSG,0.3,0.3,sold
+Anshul Kamboj,2025,CSK,0.3,3.4,sold
+Arshad Khan,2025,GT,0.3,1.3,sold
+Darshan Nalkande,2025,DC,0.3,0.3,sold
+Anukul Roy,2025,KKR,0.3,0.4,sold
+Swapnil Singh,2025,RCB,0.3,0.5,sold
+Vansh Bedi,2025,CSK,0.3,0.55,sold
+Kunal Singh Rathore,2025,RR,0.3,0.3,sold
+Gurnoor Brar,2025,GT,0.3,1.3,sold
+Mukesh Choudhary,2025,CSK,0.3,0.3,sold
+Arjun Tendulkar,2025,MI,0.3,0.3,sold
+Zeeshan Ansari,2025,SRH,0.3,0.4,sold
+Manimaran Siddharth,2025,LSG,0.3,0.75,sold
+Digvesh Singh,2025,LSG,0.3,0.3,sold
+Manish Pandey,2025,KKR,0.75,0.75,sold
+Sherfane Rutherford,2025,GT,1.5,2.6,sold
+Shahbaz Ahmed,2025,LSG,1.0,2.4,sold
+Moeen Ali,2025,KKR,2.0,2.0,sold
+Tim David,2025,RCB,2.0,3.0,sold
+Deepak Hooda,2025,CSK,0.75,1.7,sold
+Will Jacks,2025,MI,2.0,5.25,sold
+Azmatullah Omarzai,2025,PBKS,1.5,2.4,sold
+Sai Kishore,2025,GT,0.75,2.0,sold
+Romario Shepherd,2025,RCB,1.5,1.5,sold
+Spencer Johnson,2025,KKR,2.0,2.8,sold
+Umran Malik,2025,KKR,0.75,0.75,sold
+Ishant Sharma,2025,GT,0.75,0.75,sold
+Nuwan Thushara,2025,RCB,0.75,1.6,sold
+Jaydev Unadkat,2025,SRH,1.0,1.0,sold
+Sachin Baby,2025,SRH,0.3,0.3,sold
+Harnoor Singh,2025,PBKS,0.3,0.3,sold
+C Andre Siddarth,2025,CSK,0.3,0.3,sold
+Yudhvir Singh,2025,RR,0.3,0.35,sold
+Rajvardhan Hangargekar,2025,LSG,0.3,0.3,sold
+Arshin Kulkarni,2025,LSG,0.3,0.3,sold
+Ashwani Kumar,2025,MI,0.3,0.3,sold
+Akash Singh,2025,LSG,0.3,0.3,sold
+Gurjapneet Singh,2025,CSK,0.3,2.2,sold
+Matthew Breetzke,2025,LSG,0.75,0.75,sold
+Mitchell Santner,2025,MI,2.0,2.0,sold
+Jayant Yadav,2025,GT,0.75,0.75,sold
+Fazalhaq Farooqi,2025,RR,2.0,2.0,sold
+Kwena Maphaka,2025,RR,0.75,1.5,sold
+Kuldeep Sen,2025,PBKS,0.75,0.8,sold
+Reece Topley,2025,MI,0.75,0.75,sold
+Lizaad Williams,2025,MI,0.75,0.75,sold
+Priyansh Arya,2025,PBKS,0.3,3.8,sold
+Manoj Bhandage,2025,RCB,0.3,0.3,sold
+Praveen Dubey,2025,PBKS,0.3,0.3,sold
+Ajay Mandal,2025,DC,0.3,0.3,sold
+Vipraj Nigam,2025,DC,0.3,0.5,sold
+Krishnan Shrijith,2025,MI,0.3,0.3,sold
+Mohit Rathee,2025,RCB,0.3,0.3,sold
+Jacob Bethell,2025,RCB,1.25,2.6,sold
+Brydon Carse,2025,SRH,1.0,1.0,sold
+Aaron Hardie,2025,PBKS,1.25,1.25,sold
+Kamindu Mendis,2025,SRH,0.75,0.75,sold
+Dushmantha Chameera,2025,DC,0.75,0.75,sold
+Nathan Ellis,2025,CSK,1.25,2.0,sold
+Shamar Joseph,2025,LSG,0.75,0.75,sold
+Aniket Verma,2025,SRH,0.3,0.3,sold
+Raj Bawa,2025,MI,0.3,0.3,sold
+Musheer Khan,2025,PBKS,0.3,0.3,sold
+Manvanth Kumar,2025,DC,0.3,0.3,sold
+Suryansh Shedge,2025,PBKS,0.3,0.3,sold
+Kulwant Khejroliya,2025,GT,0.3,0.3,sold
+Prince Yadav,2025,LSG,0.3,0.3,sold
+Jamie Overton,2025,CSK,1.5,1.5,sold
+Xavier Bartlett,2025,PBKS,0.75,0.8,sold
+Lungi Ngidi,2025,RCB,1.0,1.0,sold
+Kamlesh Nagarkoti,2025,CSK,0.3,0.3,sold
+Abhinandan Singh,2025,RCB,0.3,0.3,sold
+Karim Janat,2025,GT,0.75,0.75,sold
+Pyla Avinash,2025,PBKS,0.3,0.3,sold
+Ramakrishna Ghosh,2025,CSK,0.3,0.3,sold
+Satyanarayana Raju,2025,MI,0.3,0.3,sold
+Bevon Jacobs,2025,MI,0.3,0.3,sold
+Ashok Sharma,2025,RR,0.3,0.3,sold
+Vaibhav Suryavanshi,2025,RR,0.3,1.1,sold
+Eshan Malinga,2025,SRH,0.3,1.2,sold
+Tripurana Vijay,2025,DC,0.3,0.3,sold
+Madhav Tiwari,2025,DC,0.3,0.4,sold
+Vignesh Puthur,2025,MI,0.3,0.3,sold
+Jofra Archer,2025,RR,2.0,12.5,sold
