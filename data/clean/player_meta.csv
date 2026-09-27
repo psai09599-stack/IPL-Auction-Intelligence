@@ -1,0 +1,304 @@
+player_id,name,dob,role,batting_style,bowling_style,nationality
+p0260,Josh Hazlewood,08/01/1991,BOWLER,LHB,RIGHT ARM Fast Medium,Australia
+p0592,Richard Gleeson,02/12/1987,BOWLER,RHB,RIGHT ARM Fast,England
+p0261,Murugan Ashwin,08/09/1990,BOWLER,RHB,RIGHT ARM Leg Spin,India
+p0262,Dhruv Jurel,21/01/2001,WICKETKEEPER,RHB,,India
+p0003,Priyansh Arya,18/09/2001,ALL-ROUNDER,LHB,RIGHT ARM Off Spin,India
+p0008,Mohit Rathee,13/01/1999,BOWLER,RHB,RIGHT ARM Leg Spin,India
+p0266,Reece Topley,21/02/1994,BOWLER,RHB,LEFT ARM Fast,England
+p0009,Yashasvi Jaiswal,28/12/2001,BATTER,LHB,,India
+p0270,Nuwan Thushara,06/08/1994,BOWLER,RHB,RIGHT ARM Fast,Sri Lanka
+p0010,Sachin Baby,18/12/1988,BATTER,LHB,RIGHT ARM Off Spin,India
+p0273,Matheesha Pathirana,18/12/2002,BOWLER,RHB,RIGHT ARM Fast,Sri Lanka
+p0274,Prashant Solanki,22/02/2000,BOWLER,RHB,RIGHT ARM Leg Spin,India
+p0013,Nishant Sindhu,09/04/2004,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,India
+p0015,Sandeep Warrier,04/04/1991,BOWLER,RHB,RIGHT ARM Fast Medium,India
+p0277,Kyle Mayers,08/09/1992,ALL-ROUNDER,LHB,RIGHT ARM Fast Medium,West Indies
+p0620,Yuvraj Chaudhary,06/10/2001,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,India
+p0552,Bevon Jacobs,06/05/2002,BATTER,RHB,RIGHT ARM Fast Medium,New Zealand
+p0278,Ruturaj Gaikwad,31/01/1997,BATTER,RHB,,India
+p0279,Jasprit Bumrah,06/12/1993,BOWLER,RHB,RIGHT ARM Fast,India
+p0017,Abdul Samad,28/10/2001,ALL-ROUNDER,RHB,RIGHT ARM Leg Spin,India
+p0601,Shai Hope,10/11/1993,WICKETKEEPER,RHB,,West Indies
+p0282,Anmolpreet Singh,28/03/1998,BATTER,RHB,RIGHT ARM Off Spin,India
+p0283,Devon Conway,08/07/1991,BATTER,LHB,,New Zealand
+p0021,Vijay Shankar,26/01/1991,ALL-ROUNDER,RHB,RIGHT ARM Medium,India
+p0022,Rishi Dhawan,19/02/1990,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,India
+p0286,KL Rahul,18/04/1992,WICKETKEEPER,RHB,,India
+p0617,Waqar Salamkheil,02/10/2001,BOWLER,RHB,LEFT ARM Slow Unorthodox,Afghanistan
+p0289,Darshan Nalkande,04/10/1998,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,India
+p0589,Pukhraj Mann,07/06/2001,BATTER,LHB,RIGHT ARM Off Spin,India
+p0025,Sanjay Yadav,10/05/1995,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,India
+p0026,Riyan Parag,10/11/2001,ALL-ROUNDER,RHB,RIGHT ARM Leg Spin,India
+p0292,Ramakrishna Ghosh,28/08/1997,ALL-ROUNDER,RHB,RIGHT ARM Fast,India
+p0583,Nathan Smith,15/07/1998,ALL-ROUNDER,RHB,RIGHT ARM Fast,New Zealand
+p0293,Rachin Ravindra,18/11/1999,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,New Zealand
+p0573,Lance Morris,28/03/1998,BOWLER,RHB,RIGHT ARM Fast,Australia
+p0294,Mayank Yadav,17/06/2002,BOWLER,RHB,RIGHT ARM Fast,India
+p0295,Akash Madhwal,25/11/1993,BOWLER,RHB,RIGHT ARM Fast,India
+p0029,Jake Fraser-McGurk,11/04/2002,BATTER,RHB,,Australia
+p0570,Khrievitso Kense,06/03/2004,ALL-ROUNDER,RHB,RIGHT ARM Leg Spin,India
+p0032,Praveen Dubey,01/07/1993,ALL-ROUNDER,RHB,RIGHT ARM Leg Spin,India
+p0590,Pyla Avinash,07/07/2000,BATTER,RHB,RIGHT ARM Fast Medium,India
+p0034,Dwaine Pretorius,29/03/1989,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,South Africa
+p0300,Mohammed Shami,03/09/1990,BOWLER,RHB,RIGHT ARM Fast,India
+p0301,Kuldeep Yadav,15/10/1996,BOWLER,LHB,LEFT ARM Fast,India
+p0615,Vijayakanth Viyaskanth,05/12/2001,BOWLER,RHB,RIGHT ARM Leg Spin,Sri Lanka
+p0036,Kumar Kushagra,23/10/2004,WICKETKEEPER,RHB,,India
+p0575,Luke Wood,02/08/1995,BOWLER,LHB,LEFT ARM Fast,England
+p0546,Arpit Guleria,26/04/1997,BOWLER,RHB,RIGHT ARM Fast,India
+p0302,Harry Brook,22/02/1999,BATTER,RHB,RIGHT ARM Medium,England
+p0303,Donovan Ferreira,21/07/1998,WICKETKEEPER,RHB,RIGHT ARM Off Spin,South Africa
+p0306,Ashutosh Sharma,15/09/1998,ALL-ROUNDER,RHB,RIGHT ARM Medium,India
+p0042,Gerald Coetzee,02/10/2000,BOWLER,RHB,RIGHT ARM Fast,South Africa
+p0563,Emanjot Singh Chahal,17/08/2004,ALL-ROUNDER,RHB,LEFT ARM Slow Orthodox,India
+p0311,Lizaad Williams,01/10/1993,BOWLER,LHB,RIGHT ARM Fast,South Africa
+p0309,Ravichandran Ashwin,17/09/1986,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,India
+p0310,Mitchell Marsh,20/10/1991,ALL-ROUNDER,RHB,RIGHT ARM Fast,Australia
+p0581,Michael Bracewell,14/02/1991,ALL-ROUNDER,LHB,RIGHT ARM Off Spin,New Zealand
+p0044,Azmatullah Omarzai,24/03/2000,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,Afghanistan
+p0312,Noor Ahmad,03/01/2005,BOWLER,RHB,LEFT ARM Slow Unorthodox,Afghanistan
+p0314,Fazalhaq Farooqi,22/09/2000,BOWLER,RHB,LEFT ARM Fast Medium,Afghanistan
+p0313,Yash Dhull,11/11/2002,BATTER,RHB,,India
+p0046,Akeal Hosein,25/04/1993,BOWLER,LHB,LEFT ARM Slow Orthodox,West Indies
+p0047,Mujeeb Ur Rahman,28/03/2001,BOWLER,RHB,RIGHT ARM Off Spin,Afghanistan
+p0049,Jayant Yadav,22/01/1990,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,India
+p0316,Kamlesh Nagarkoti,28/12/1999,ALL-ROUNDER,RHB,RIGHT ARM Fast,India
+p0611,Utkarsh Singh,07/05/1998,ALL-ROUNDER,LHB,RIGHT ARM Off Spin,India
+p0616,Wanindu Hasaranga,29/07/1997,BOWLER,RHB,RIGHT ARM Leg Spin,Sri Lanka
+p0532,Shubham Dubey,27/08/1994,BATTER,LHB,RIGHT ARM Off Spin,India
+p0055,Simarjeet Singh,17/01/1998,BOWLER,RHB,RIGHT ARM Fast,India
+p0052,Anukul Roy,30/11/1998,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,India
+p0053,David Warner,27/10/1986,BATTER,LHB,,Australia
+p0058,Aniket Verma,05/02/2002,BATTER,RHB,,India
+p0056,Kuldeep Sen,22/10/1996,BOWLER,RHB,RIGHT ARM Fast,India
+p0588,Prince Choudhary,29/09/1999,BOWLER,RHB,RIGHT ARM Leg Spin,India
+p0550,Bailapudi Yeswanth,19/03/2005,BOWLER,RHB,RIGHT ARM Leg Spin,India
+p0323,Adam Zampa,31/12/1992,BOWLER,RHB,RIGHT ARM Leg Spin,Australia
+p0559,Digvijay Deshmukh,12/04/1998,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,India
+p0326,Mukesh Kumar,12/10/1993,BOWLER,RHB,RIGHT ARM Fast Medium,India
+p0064,Piyush Chawla,24/12/1988,BOWLER,LHB,RIGHT ARM Leg Spin,India
+p0065,Mohammed Siraj,13/03/1994,BOWLER,RHB,RIGHT ARM Fast,India
+p0328,Liam Livingstone,04/08/1993,ALL-ROUNDER,RHB,RIGHT ARM Leg Spin,England
+p0067,Shreyas Gopal,04/09/1993,BOWLER,RHB,RIGHT ARM Leg Spin,India
+p0070,Mustafizur Rahman,06/09/1995,BOWLER,LHB,LEFT ARM Fast,Bangladesh
+p0331,Mayank Markande,11/11/1997,BOWLER,RHB,RIGHT ARM Leg Spin,India
+p0547,Aryan Juyal,11/11/2001,WICKETKEEPER,RHB,RIGHT ARM Off Spin,India
+p0332,Mayank Dagar,11/11/1996,ALL-ROUNDER,RHB,LEFT ARM Slow Orthodox,India
+p0335,Naman Dhir,31/12/1999,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,India
+p0073,Anuj Rawat,17/10/1999,WICKETKEEPER,LHB,RIGHT ARM Leg Spin,India
+p0074,Eshan Malinga,04/02/2001,BOWLER,LHB,RIGHT ARM Fast,Sri Lanka
+p0076,Kyle Jamieson,30/12/1994,BOWLER,RHB,RIGHT ARM Fast,New Zealand
+p0077,Mahipal Lomror,16/11/1999,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,India
+p0336,Harpreet Brar,16/09/1995,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,India
+p0337,Kane Williamson,08/08/1990,BATTER,RHB,,New Zealand
+p0578,Manvanth Kumar,12/10/1993,BOWLER,RHB,RIGHT ARM Fast Medium,India
+p0338,Abishek Porel,17/10/2002,WICKETKEEPER,LHB,,India
+p0339,Shreyas Iyer,06/12/1994,BATTER,RHB,RIGHT ARM Off Spin,India
+p0341,Manav Suthar,03/08/2002,BOWLER,LHB,LEFT ARM Slow Orthodox,India
+p0342,Kwena Maphaka,08/04/2006,BOWLER,LHB,LEFT ARM Fast,South Africa
+p0542,Aaron Hardie,07/01/1999,ALL-ROUNDER,RHB,RIGHT ARM Medium,Australia
+p0574,Leus du Plooy,12/01/1995,BATTER,LHB,,England
+p0082,Angkrish Raghuvanshi,05/06/2004,BATTER,RHB,RIGHT ARM Off Spin,India
+p0080,Kulwant Khejroliya,13/03/1992,BOWLER,LHB,LEFT ARM Fast Medium,India
+p0344,Jamie Overton,10/04/1984,ALL-ROUNDER,RHB,RIGHT ARM Fast,England
+p0345,David Miller,10/06/1989,BATTER,LHB,,South Africa
+p0566,Harvik Desai,04/10/1999,WICKETKEEPER,RHB,,India
+p0348,Rishabh Pant,04/10/1997,BATTER,LHB,RIGHT ARM Off Spin,India
+p0535,Jitesh Sharma,22/10/1993,WICKETKEEPER,RHB,,India
+p0350,Washington Sundar,05/10/1999,ALL-ROUNDER,LHB,RIGHT ARM Off Spin,India
+p0577,Madhav Kaushik,03/01/1998,BATTER,RHB,RIGHT ARM Off Spin,India
+p0094,Ryan Rickelton,11/07/1996,WICKETKEEPER,LHB,,South Africa
+p0095,Kunal Singh Rathore,09/10/2002,WICKETKEEPER,LHB,RIGHT ARM Off Spin,India
+p0357,Nicholas Pooran,02/10/1995,WICKETKEEPER,LHB,,West Indies
+p0356,Deepak Chahar,07/08/1992,BOWLER,RHB,RIGHT ARM Fast Medium,India
+p0561,Divesh Sharma,20/04/2001,BOWLER,RHB,RIGHT ARM Fast,India
+p0096,Bhuvneshwar Kumar,05/02/1990,BOWLER,RHB,RIGHT ARM Fast Medium,India
+p0359,T Natarajan,27/05/1991,BOWLER,LHB,LEFT ARM Fast Medium,India
+p0362,Sameer Rizvi,06/12/2003,ALL-ROUNDER,RHB,RIGHT ARM Leg Spin,India
+p0363,Umran Malik,22/11/1999,BOWLER,RHB,RIGHT ARM Fast,India
+p0584,Olly Stone,09/10/1993,BOWLER,RHB,RIGHT ARM Fast,England
+p0098,Mitchell Santner,05/02/1992,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,New Zealand
+p0099,Spencer Johnson,16/12/1995,BOWLER,LHB,LEFT ARM Fast,Australia
+p0619,Yash Dabas,08/12/2004,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,India
+p0554,Brandon King,16/12/1994,BATTER,RHB,RIGHT ARM Off Spin,West Indies
+p0369,Chris Jordan,04/10/1988,BOWLER,RHB,RIGHT ARM Fast,England
+p0102,Moeen Ali,18/06/1987,ALL-ROUNDER,LHB,RIGHT ARM Off Spin,England
+p0103,Rajan Kumar,08/07/1996,BOWLER,LHB,LEFT ARM Fast,India
+p0585,Ottneil Baartman,18/03/1993,BOWLER,RHB,RIGHT ARM Fast Medium,South Africa
+p0610,Umang Kumar,11/12/2000,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,India
+p0106,Maheesh Theekshana,01/08/2000,BOWLER,RHB,RIGHT ARM Off Spin,Sri Lanka
+p0558,Digvesh Singh,15/12/1999,BOWLER,RHB,RIGHT ARM Leg Spin,India
+p0107,Lungi Ngidi,29/03/1996,BOWLER,RHB,RIGHT ARM Fast Medium,South Africa
+p0379,Suyash Sharma,15/05/2003,BOWLER,RHB,RIGHT ARM Leg Spin,India
+p0378,Daryl Mitchell,20/05/1991,ALL-ROUNDER,RHB,RIGHT ARM Medium,New Zealand
+p0110,Dewald Brevis,29/04/2003,BATTER,RHB,RIGHT ARM Leg Spin,South Africa
+p0384,Sikandar Raza,24/04/1986,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,Zimbabwe
+p0553,Blessing Muzarabani,02/10/1996,BOWLER,RHB,RIGHT ARM Fast,Zimbabwe
+p0385,Venkatesh Iyer,25/12/1994,ALL-ROUNDER,LHB,RIGHT ARM Medium,India
+p0112,Himmat Singh,08/11/1996,BATTER,RHB,RIGHT ARM Off Spin,India
+p0387,Nathan Ellis,22/09/1994,BOWLER,RHB,RIGHT ARM Fast Medium,Australia
+p0605,Steven Smith,02/06/1989,BATTER,RHB,,Australia
+p0114,Navdeep Saini,23/11/1992,BOWLER,RHB,RIGHT ARM Fast,India
+p0115,Ramandeep Singh,13/04/1997,ALL-ROUNDER,RHB,RIGHT ARM Medium,India
+p0389,Jacob Bethell,23/10/2003,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,England
+p0390,Arshin Kulkarni,15/02/2005,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,India
+p0119,Nehal Wadhera,04/09/2000,BATTER,LHB,RIGHT ARM Leg Spin,India
+p0391,Axar Patel,20/01/1994,ALL-ROUNDER,LHB,LEFT ARM Orthodox,India
+p0392,Rahul Tripathi,02/03/1991,BATTER,RHB,RIGHT ARM Medium,India
+p0394,Manimaran Siddharth,03/07/1998,BOWLER,RHB,LEFT ARM Slow Orthodox,India
+p0395,Akash Deep,15/12/1996,BOWLER,RHB,RIGHT ARM Fast,India
+p0121,Shardul Thakur,16/10/1991,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,India
+p0122,Umesh Yadav,25/10/1987,BOWLER,RHB,RIGHT ARM Fast Medium,India
+p0123,Suryansh Shedge,29/01/2003,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,India
+p0396,Manoj Bhandage,05/10/1998,ALL-ROUNDER,LHB,RIGHT ARM Fast Medium,India
+p0398,Robin Minz,13/09/2002,WICKETKEEPER,LHB,RIGHT ARM Off Spin,India
+p0397,MS Dhoni,07/07/1981,WICKETKEEPER,RHB,,India
+p0126,Prithvi Shaw,09/11/1999,BATTER,RHB,,India
+p0568,Kamindu Mendis,30/09/1998,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,Sri Lanka
+p0399,Andre Russell,29/04/1988,ALL-ROUNDER,RHB,RIGHT ARM Fast,West Indies
+p0131,Sunil Narine,26/05/1988,ALL-ROUNDER,LHB,RIGHT ARM Off Spin,West Indies
+p0129,Deepak Hooda,19/04/1995,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,India
+p0401,Tilak Varma,08/11/2002,BATTER,LHB,,India
+p0402,Madhav Tiwari,28/09/2003,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,India
+p0404,Shivam Dube,26/06/1993,ALL-ROUNDER,LHB,RIGHT ARM Medium,India
+p0134,Quinton de Kock,17/12/1992,WICKETKEEPER,LHB,,South Africa
+p0405,Josh Inglis,04/03/1995,WICKETKEEPER,RHB,,Australia
+p0135,Glenn Phillips,06/12/1996,BATTER,RHB,RIGHT ARM Off Spin,New Zealand
+p0406,Sanju Samson,11/11/1994,WICKETKEEPER,RHB,,India
+p0603,Shivalik Sharma,28/11/1998,ALL-ROUNDER,LHB,RIGHT ARM Leg Spin,India
+p0407,Shamar Joseph,31/08/1999,BOWLER,LHB,RIGHT ARM Fast,West Indies
+p0139,Ajinkya Rahane,06/06/1988,BATTER,RHB,,India
+p0408,Nitish Rana,27/12/1993,ALL-ROUNDER,LHB,RIGHT ARM Off Spin,India
+p0409,Arshdeep Singh,05/02/1999,BOWLER,LHB,LEFT ARM Fast Medium,India
+p0410,Pat Cummins,08/05/1993,BOWLER,RHB,RIGHT ARM Fast,Australia
+p0141,Kartik Tyagi,08/11/2000,BOWLER,RHB,RIGHT ARM Fast,India
+p0142,Abhinav Manohar,16/09/1994,BATTER,RHB,RIGHT ARM Leg Spin,India
+p0569,Keshav Maharaj,07/02/1990,BOWLER,RHB,LEFT ARM Slow Orthodox,South Africa
+p0143,Rovman Powell,23/07/1993,BATTER,RHB,RIGHT ARM Fast Medium,West Indies
+p0594,Roston Chase,22/03/1992,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,West Indies
+p0411,Krunal Pandya,24/03/1991,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,India
+p0412,Ayush Badoni,03/12/1999,BATTER,RHB,,India
+p0145,Ishant Sharma,02/09/1988,BOWLER,RHB,RIGHT ARM Fast,India
+p0612,Vansh Bedi,23/12/2002,WICKETKEEPER,RHB,,India
+p0413,Yuzvendra Chahal,23/07/1990,BOWLER,RHB,RIGHT ARM Leg Spin,India
+p0146,Marcus Stoinis,16/08/1989,ALL-ROUNDER,RHB,RIGHT ARM Fast,Australia
+p0572,LR Chethan,25/05/2000,WICKETKEEPER,RHB,RIGHT ARM Off Spin,India
+p0151,Rahmanullah Gurbaz,28/11/2001,WICKETKEEPER,RHB,,Afghanistan
+p0147,Alzarri Joseph,20/11/1996,BOWLER,RHB,RIGHT ARM Fast,West Indies
+p0148,Vidwath Kaverappa,25/02/1999,BOWLER,RHB,RIGHT ARM Fast Medium,India
+p0150,Romario Shepherd,26/11/1994,ALL-ROUNDER,RHB,RIGHT ARM Fast,West Indies
+p0613,Varun Chakravarthy,29/08/1991,BOWLER,RHB,RIGHT ARM Mystery Spin,India
+p0541,Finn Allen,22/04/1999,BATTER,RHB,,New Zealand
+p0416,Vignesh Puthur,02/03/2001,ALL-ROUNDER,RHB,LEFT ARM Slow Unorthodox,India
+p0417,Mohit Sharma,18/09/1988,BOWLER,RHB,RIGHT ARM Fast,India
+p0548,Atit Sheth,03/02/1996,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,India
+p0155,Sherfane Rutherford,15/08/1998,BATTER,LHB,RIGHT ARM Fast Medium,West Indies
+p0419,Harshal Patel,23/11/1990,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,India
+p0614,Vijay Kumar,24/12/2005,BOWLER,RHB,RIGHT ARM Fast,India
+p0587,Prasidh Krishna,19/02/1996,BOWLER,RHB,RIGHT ARM Fast,India
+p0421,Adam Milne,13/04/1992,BOWLER,RHB,RIGHT ARM Fast,New Zealand
+p0422,Lockie Ferguson,13/06/1991,BOWLER,RHB,RIGHT ARM Fast,New Zealand
+p0608,Tejasvi Dahiya,18/04/2002,WICKETKEEPER,RHB,,India
+p0156,Glenn Maxwell,14/10/1988,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,Australia
+p0582,Naman Tiwari,08/11/2005,BOWLER,LHB,LEFT ARM Fast,India
+p0159,Alex Carey,27/08/1991,WICKETKEEPER,LHB,,Australia
+p0160,Karim Janat,11/08/1998,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,Afghanistan
+p0426,Vaibhav Arora,14/12/1997,BOWLER,RHB,RIGHT ARM Fast Medium,India
+p0161,Tushar Deshpande,15/05/1995,BOWLER,LHB,RIGHT ARM Fast,India
+p0164,Shahbaz Ahmed,05/12/1997,BOWLER,RHB,LEFT ARM Fast Medium,India
+p0165,Tristan Stubbs,14/08/2000,BATTER,RHB,,South Africa
+p0427,Zeeshan Ansari,16/12/1999,BOWLER,RHB,RIGHT ARM Leg Spin,India
+p0556,Brydon Carse,31/07/1995,ALL-ROUNDER,RHB,RIGHT ARM Fast,England
+p0428,Gurjapneet Singh,08/11/1998,BOWLER,RHB,LEFT ARM Fast Medium,India
+p0167,Xavier Bartlett,17/12/1998,BOWLER,RHB,RIGHT ARM Fast Medium,Australia
+p0431,Ashok Sharma,17/06/2002,BOWLER,RHB,RIGHT ARM Fast,India
+p0564,Gus Atkinson,19/01/1998,ALL-ROUNDER,RHB,RIGHT ARM Fast,England
+p0432,Rajat Patidar,01/06/1993,BATTER,RHB,,India
+p0433,Ishan Kishan,18/07/1998,WICKETKEEPER,LHB,,India
+p0170,Atharva Taide,26/04/2000,BATTER,LHB,LEFT ARM Slow Orthodox,India
+p0173,Raj Bawa,12/11/2002,ALL-ROUNDER,LHB,RIGHT ARM Fast Medium,India
+p0171,Chetan Sakariya,28/02/1998,BOWLER,LHB,LEFT ARM Medium,India
+p0172,Jason Behrendorff,20/04/1990,BOWLER,RHB,LEFT ARM Fast,Australia
+p0567,Jhathavedh Subramanyan,16/09/1999,BOWLER,RHB,RIGHT ARM Leg Spin,India
+p0178,Manish Pandey,10/09/1989,BATTER,RHB,,India
+p0441,Hardik Pandya,11/10/1993,ALL-ROUNDER,RHB,RIGHT ARM Medium Fast,India
+p0607,Tanush Kotian,16/10/1998,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,India
+p0183,Abhinandan Singh,30/03/1997,BOWLER,RHB,RIGHT ARM Fast Medium,India
+p0184,Mitchell Starc,30/01/1990,BOWLER,LHB,LEFT ARM Fast,Australia
+p0448,AM Ghazanfar,20/03/2006,BOWLER,RHB,RIGHT ARM Off Spin,Afghanistan
+p0579,Matthew Short,08/11/1995,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,Australia
+p0591,Raj Limbani,02/02/2005,ALL-ROUNDER,LHB,RIGHT ARM Fast Medium,India
+p0187,Virat Kohli,05/11/1988,BATTER,RHB,,India
+p0450,Rahul Chahar,04/08/1999,BOWLER,RHB,RIGHT ARM Leg Spin,India
+p0451,Vaibhav Suryavanshi,27/03/2011,BATTER,LHB,LEFT ARM Slow Orthodox,India
+p0189,Arjun Tendulkar,24/09/1999,BOWLER,LHB,LEFT ARM Fast Medium,India
+p0580,Mayank Agarawal,16/02/1991,BATTER,RHB,RIGHT ARM Off Spin,India
+p0191,Faf du Plessis,13/07/1984,BATTER,RHB,,South Africa
+p0194,Rashid Khan,20/09/1998,BOWLER,RHB,RIGHT ARM Leg Spin,Afghanistan
+p0453,Harshit Rana,22/12/2001,BOWLER,RHB,RIGHT ARM Fast,India
+p0456,Devdutt Padikkal,07/07/2000,BATTER,LHB,,India
+p0200,Ashwani Kumar,29/08/2001,BOWLER,LHB,LEFT ARM Fast,India
+p0461,Ripal Patel,28/09/1995,ALL-ROUNDER,RHB,RIGHT ARM Medium,India
+p0201,Shivam Singh,25/11/1995,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,India
+p0465,Nitish Kumar Reddy,26/05/2003,ALL-ROUNDER,RHB,RIGHT ARM Medium,India
+p0466,Ravindra Jadeja,06/12/1988,ALL-ROUNDER,LHB,LEFT ARM Orthodox,India
+p0203,Sarfaraz Khan,22/10/1997,ALL-ROUNDER,RHB,RIGHT ARM Leg Spin,India
+p0208,Will Jacks,21/11/1998,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,England
+p0209,Ravi Bishnoi,05/09/2000,BOWLER,RHB,RIGHT ARM Leg Spin,India
+p0211,Heinrich Klaasen,30/07/1991,WICKETKEEPER,RHB,,South Africa
+p0549,Avinash Singh,05/07/1998,BOWLER,RHB,RIGHT ARM Fast,India
+p0213,Aiden Markram,04/10/1994,BATTER,RHB,RIGHT ARM Off Spin,South Africa
+p0215,Anshul Kamboj,06/12/2000,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,India
+p0216,Yash Dayal,13/12/1997,BOWLER,LHB,LEFT ARM Medium Fast,India
+p0530,Rohit Sharma,27/11/2002,BATTER,LHB,RIGHT ARM Off Spin,India
+p0476,Vishnu Vinod,02/12/1993,WICKETKEEPER,RHB,,India
+p0477,Karun Nair,06/12/1991,BATTER,RHB,RIGHT ARM Off Spin,India
+p0478,Musheer Khan,27/02/2005,ALL-ROUNDER,RHB,LEFT ARM Slow Orthodox,India
+p0479,Trent Boult,22/07/1989,BOWLER,RHB,LEFT ARM Fast Medium,New Zealand
+p0597,Sai Sudharsan,15/10/2001,BATTER,LHB,,India
+p0560,Dilshan Madushanka,18/09/2000,BOWLER,RHB,LEFT ARM Fast,Sri Lanka
+p0481,Gurnoor Brar,25/05/2000,BOWLER,LHB,RIGHT ARM Fast,India
+p0220,Prince Yadav,12/12/2001,BOWLER,RHB,RIGHT ARM Fast,India
+p0576,Luvnith Sisodia,15/01/2000,WICKETKEEPER,LHB,,India
+p0487,Travis Head,29/12/1993,BATTER,LHB,,Australia
+p0222,Yash Thakur,28/12/1998,BOWLER,RHB,RIGHT ARM Fast Medium,India
+p0586,Pathum Nissanka,18/05/1998,BATTER,RHB,RIGHT ARM Off Spin,Sri Lanka
+p0544,Anirudh Chowdhary,08/11/1999,BOWLER,LHB,RIGHT ARM Fast Medium,India
+p0491,Shimron Hetmyer,26/12/1996,BATTER,LHB,,West Indies
+p0521,Rinku Singh,12/10/1997,BATTER,LHB,,India
+p0226,Shubman Gill,08/09/1999,BATTER,RHB,,India
+p0609,Tom Latham,02/04/1992,WICKETKEEPER,LHB,,New Zealand
+p0599,Salman Nizar,30/06/1997,BATTER,LHB,,India
+p0562,Dushmantha Chameera,11/01/1992,BOWLER,RHB,RIGHT ARM Fast,Sri Lanka
+p0231,Shaik Rasheed,24/09/2004,BATTER,RHB,RIGHT ARM Leg Spin,India
+p0539,Karn Sharma,23/10/1987,BOWLER,LHB,RIGHT ARM Leg Spin,India
+p0501,Swapnil Singh,22/01/1991,ALL-ROUNDER,RHB,LEFT ARM Slow Orthodox,India
+p0598,Sakib Hussain,14/12/2004,BOWLER,RHB,RIGHT ARM Fast Medium,India
+p0233,Matthew Breetzke,03/11/1998,BATTER,RHB,,South Africa
+p0551,Ben Duckett,17/10/1994,BATTER,LHB,,England
+p0237,Rajvardhan Hangargekar,10/11/2002,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,India
+p0241,Adil Rashid,17/02/1988,BOWLER,RHB,RIGHT ARM Leg Spin,England
+p0243,Anrich Nortje,16/11/1993,BOWLER,RHB,RIGHT ARM Fast,South Africa
+p0595,Sachin Dhas,03/02/2005,BATTER,RHB,RIGHT ARM Off Spin,India
+p0506,Shivam Mavi,26/11/1998,BOWLER,RHB,RIGHT ARM Fast Medium,India
+p0245,Tim David,16/03/1996,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,Australia
+p0602,Shiva Singh,16/10/1999,ALL-ROUNDER,RHB,LEFT ARM Slow Orthodox,India
+p0508,Vipraj Nigam,28/07/2004,ALL-ROUNDER,RHB,RIGHT ARM Leg Spin,India
+p0511,Avesh Khan,13/12/1996,BOWLER,RHB,RIGHT ARM Fast,India
+p0593,Rishad Hossain,15/07/2002,BOWLER,RHB,RIGHT ARM Leg Spin,Bangladesh
+p0246,Kagiso Rabada,25/05/1995,BOWLER,RHB,RIGHT ARM Fast,South Africa
+p0247,Jonny Bairstow,26/09/1989,WICKETKEEPER,RHB,RIGHT ARM Medium,England
+p0555,Brandon McMullen,18/10/1999,ALL-ROUNDER,RHB,RIGHT ARM Medium,Scotland
+p0248,Jaydev Unadkat,18/10/1991,BOWLER,RHB,LEFT ARM Fast Medium,India
+p0257,Raghav Goyal,20/06/2001,BOWLER,LHB,LEFT ARM Slow Unorthodox,India
+p0251,Jos Buttler,08/09/1990,WICKETKEEPER,RHB,RIGHT ARM Off Spin,England
+p0253,Rahul Tewatia,24/08/1993,ALL-ROUNDER,LHB,RIGHT ARM Leg Spin,India
+p0255,Mukesh Choudhary,06/07/1996,BOWLER,LHB,LEFT ARM Fast,India
+p0514,Tripurana Vijay,05/09/2001,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,India
+p0256,Phil Salt,28/08/1996,WICKETKEEPER,RHB,,England
+p0515,Akash Singh,26/04/2002,BOWLER,RHB,LEFT ARM Fast,India
+p0258,Sam Curran,03/06/1998,ALL-ROUNDER,LHB,LEFT ARM Fast Medium,England
+p0517,Josh Philippe,01/06/1997,WICKETKEEPER,RHB,,Australia
+p0259,Marco Jansen,01/05/2000,ALL-ROUNDER,RHB,LEFT ARM Fast,South Africa
+p0543,Ajay Mandal,25/02/1996,ALL-ROUNDER,LHB,LEFT ARM Slow Unorthodox,India

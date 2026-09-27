@@ -1,522 +1,522 @@
 player_id,auction_name,cricsheet_name
-p0001,CM Gautam,CM Gautam
-p0002,Vijay Zol,VH Zol
-p0003,Arshad Khan,Arshad Khan
-p0004,Swapnil Singh,Swapnil Singh
-p0005,Amit Mishra,A Mishra
-p0006,Himmat Singh,Himmat Singh
-p0007,Devdutt Padikkal,D Padikkal
-p0008,Baba Indrajith,B Indrajith
-p0009,Abhishek Sharma,Abhishek Sharma
-p0010,Romario Shepherd,R Shepherd
-p0011,Mohit Sharma,MM Sharma
-p0012,Harshal Patel,HV Patel
-p0013,Mohammed Siraj,Mohammed Siraj
-p0014,Navdeep Saini,Navdeep Saini
-p0015,Sunil Narine,SP Narine
-p0016,Kumar Kushagra,Kumar Kushagra
-p0017,Shrikant Mundhe,SS Mundhe
-p0018,Mayank Markande,M Markande
-p0019,Abhishek Nayar,AM Nayar
-p0020,Mustafizur Rahman,Mustafizur Rahman
-p0021,Manpreet Gony,MS Gony
-p0022,Manan Vohra,M Vohra
-p0023,Murali Vijay,M Vijay
-p0024,Isuru Udana,I Udana
-p0025,Ambati Rayudu,AT Rayudu
-p0026,Eklavya Dwivedi,ER Dwivedi
-p0027,Oshane Thomas,O Thomas
-p0028,Paras Dogra,P Dogra
-p0029,Ishant Sharma,I Sharma
-p0030,Clint McKay,CJ McKay
-p0031,Akshar Patel,AR Patel
-p0032,Robin Uthappa,RV Uthappa
-p0033,Karun Nair,KK Nair
-p0034,Suyash Prabhudessai,SS Prabhudessai
-p0035,Harry Gurney,HF Gurney
-p0036,Kamlesh Nagarkoti,KL Nagarkoti
-p0037,Dhawal Kulkarni,DS Kulkarni
-p0038,Ryan McLaren,R McLaren
-p0039,Zeeshan Ansari,Zeeshan Ansari
-p0040,Akash Madhwal,Akash Madhwal
-p0041,Tilak Varma,Tilak Varma
-p0042,Siddhesh Lad,SD Lad
-p0043,Aditya Tare,AP Tare
-p0044,Manprit Juneja,MC Juneja
-p0045,Tom Curran,TK Curran
-p0046,KC Cariappa,KC Cariappa
-p0047,Akash Deep,Akash Deep
-p0048,Pawan Negi,P Negi
-p0049,Mitchell McClenaghan,MJ McClenaghan
-p0050,Ranganath Vinay Kumar,R Vinay Kumar
-p0051,Shivam Mavi,Shivam Mavi
-p0052,Eshan Malinga,E Malinga
-p0053,John Hastings,JW Hastings
-p0054,Ashok Sharma,Ashok Sharma
-p0055,James Neesham,JDS Neesham
-p0056,Quinton de Kock,Q de Kock
-p0057,Hrithik Shokeen,HR Shokeen
-p0058,Ben Hilfenhaus,BW Hilfenhaus
-p0059,Jacob Bethell,JG Bethell
-p0060,Jason Behrendorff,JP Behrendorff
-p0061,Arshin Kulkarni,AA Kulkarni
-p0062,Washington Sundar,Washington Sundar
-p0063,Kyle Mayers,KR Mayers
-p0064,Prasanth Parameswaran,P Parameswaran
-p0065,Aaron Finch,AJ Finch
-p0066,Sarfaraz Khan,SN Khan
-p0067,Phil Salt,PD Salt
-p0068,Sandeep Sharma,Sandeep Sharma
-p0069,Pradeep Sangwan,PJ Sangwan
-p0070,Shakib al Hasan,Shakib Al Hasan
-p0071,Prashant Chopra,P Chopra
-p0072,Johan Botha,J Botha
-p0073,Vivrant Sharma,Vivrant Sharma
-p0074,Manoj Bhandage,MS Bhandage
-p0075,Ricky Bhui,RK Bhui
-p0076,Shivam Sharma,Shivam Sharma
-p0077,Jaydev Unadkat,JD Unadkat
-p0078,Michael Hussey,MEK Hussey
-p0079,Obed McCoy,OC McCoy
-p0080,Nathu Singh,NB Singh
-p0081,Chris Jordan,CJ Jordan
-p0082,Rashid Khan,Rashid Khan
-p0083,Khaleel Ahmed,KK Ahmed
-p0084,Gerald Coetzee,G Coetzee
-p0085,D'Arcy Short,DJM Short
-p0086,Dewald Brevis,D Brevis
-p0087,Kuldeep Sen,KR Sen
-p0088,Lakshmipathy Balaji,L Balaji
-p0089,Himanshu Sharma,H Sharma
-p0090,Devon Conway,DP Conway
-p0091,Pragyan Ojha,PP Ojha
-p0092,Srikkanth Anirudha,S Anirudha
-p0093,Gurnoor Brar,Gurnoor Brar
-p0094,Jacob Oram,JDP Oram
-p0095,Sheldon Cottrell,SS Cottrell
-p0096,Rajat Bhatia,R Bhatia
-p0097,Ramakrishna Ghosh,RS Ghosh
-p0098,Jaskaran Singh,Jaskaran Singh
-p0099,Kevin Pietersen,KP Pietersen
-p0100,Rahul Chahar,RD Chahar
-p0101,Manish Pandey,MK Pandey
-p0102,Lockie Ferguson,LH Ferguson
-p0103,Basil Thampi,Basil Thampi
-p0104,Marchant de Lange,M de Lange
-p0105,Nitish Rana,N Rana
-p0106,Vijay Shankar,V Shankar
-p0107,Eoin Morgan,EJG Morgan
-p0108,Sudeep Tyagi,S Tyagi
-p0109,David Miller,DA Miller
-p0110,Angkrish Raghuvanshi,A Raghuvanshi
-p0111,Dishant Yagnik,DH Yagnik
-p0112,Virender Sehwag,V Sehwag
-p0113,Subramaniam Badrinath,S Badrinath
-p0114,Ben Laughlin,B Laughlin
-p0115,Vikramjeet Malik,VS Malik
-p0116,Tripurana Vijay,T Vijay
-p0117,Naman Ojha,NV Ojha
-p0118,Mitchell Santner,MJ Santner
-p0119,Sherfane Rutherford,SE Rutherford
-p0120,Mukesh Choudhary,Mukesh Choudhary
-p0121,Madhav Tiwari,M Tiwari
-p0122,Mohammad Shami,Mohammed Shami
-p0123,Dwaine Pretorius,D Pretorius
-p0124,Keemo Paul,KMA Paul
-p0125,Noor Ahmad,Noor Ahmad
-p0126,Kuldeep Yadav,Kuldeep Yadav
-p0127,Avesh Khan,Avesh Khan
-p0128,Sikandar Raza,Sikandar Raza
-p0129,Nitish Kumar Reddy,Nithish Kumar Reddy
-p0130,Yogesh Takawale,YV Takawale
-p0131,Rishabh Pant,RR Pant
-p0132,Rasikh Salam,Rasikh Salam
-p0133,Fazalhaq Farooqi,Fazalhaq Farooqi
-p0134,Daniel Sams,DR Sams
-p0135,Patrick Cummins,PJ Cummins
-p0136,AM Ghazanfar,AM Ghazanfar
-p0137,Lizaad Williams,LB Williams
-p0138,Vishnu Vinod,Vishnu Vinod
-p0139,Josh Little,J Little
-p0140,Ravi Bopara,RS Bopara
-p0141,Venkatesh Iyer,VR Iyer
-p0142,Joe Root,JE Root
-p0143,Mohit Rathee,Mohit Rathee
-p0144,Abhimanyu Mithun,A Mithun
-p0145,Peter Handscomb,PSP Handscomb
-p0146,George Bailey,GJ Bailey
-p0147,Angelo Mathews,AD Mathews
-p0148,Barinder Sran,BB Sran
-p0149,Jason Roy,JJ Roy
-p0150,Akash Singh,Akash Singh
-p0151,Yashasvi Jaiswal,YBK Jaiswal
-p0152,Scott Boland,SM Boland
-p0153,Jason Holder,JO Holder
-p0154,Ravi Bishnoi,Ravi Bishnoi
-p0155,Siddharth Kaul,S Kaul
-p0156,Darshan Nalkande,DG Nalkande
-p0157,Ruturaj Gaikwad,RD Gaikwad
-p0158,K. S. Bharat,KS Bharat
-p0159,Matthew Breetzke,MP Breetzke
-p0160,Axar Patel,AR Patel
-p0161,Dhruv Shorey,DR Shorey
-p0162,Yusuf Pathan,YK Pathan
-p0163,Chris Gayle,CH Gayle
-p0164,Manan Sharma,MM Sharma
-p0165,Corey Anderson,CJ Anderson
-p0166,Pravin Dubey,P Dubey
-p0167,Urvil Patel,Urvil Patel
-p0168,Nathan McCullum,NL McCullum
-p0169,Billy Stanlake,B Stanlake
-p0170,Akshdeep Nath,AD Nath
-p0171,Liam Livingstone,LS Livingstone
-p0172,Yudhvir Singh,Yudhvir Singh
-p0173,Ravichandran Ashwin,R Ashwin
-p0174,Odean Smith,OF Smith
-p0175,Pat Cummins,PJ Cummins
-p0176,Simarjeet Singh,Simarjeet Singh
-p0177,Ryan Ten Doeschate,RN ten Doeschate
-p0178,Naveen-ul-Haq,Naveen-ul-Haq
-p0179,Anukul Roy,AS Roy
-p0180,Alzarri Joseph,AS Joseph
-p0181,Shivam Singh,Shivam Singh
-p0182,Akila Dananjaya,A Dananjaya
-p0183,K. C. Cariappa,KC Cariappa
-p0184,Unmukt Chand,UBT Chand
-p0185,Kumar Kartikeya,K Kartikeya
-p0186,Nathan Coulter-Nile,NM Coulter-Nile
-p0187,Virat Singh,Virat Singh
-p0188,Kona Srikar Bharat,KS Bharat
-p0189,Tushar Deshpande,TU Deshpande
-p0190,Shreyas Gopal,S Gopal
-p0191,Deepak Chahar,DL Chahar
-p0192,Shubman Gill,Shubman Gill
-p0193,Musheer Khan,Musheer Khan
-p0194,Travis Head,TM Head
-p0195,R Sai Kishore,R Sai Kishore
-p0196,Josh Hazlewood,JR Hazlewood
-p0197,Suryansh Shedge,Suryansh Shedge
-p0198,Evin Lewis,E Lewis
-p0199,Lungi Ngidi,L Ngidi
-p0200,Dwayne Smith,DR Smith
-p0201,Bhuvneshwar Kumar,B Kumar
-p0202,Shakib Al Hasan,Shakib Al Hasan
-p0203,Kwena Maphaka,KT Maphaka
-p0204,Karanveer Singh,Karanveer Singh
-p0205,Colin Munro,C Munro
-p0206,Moises Henriques,MC Henriques
-p0207,Sachin Baby,Sachin Baby
-p0208,Wriddhiman Saha,WP Saha
-p0209,Ankit Sharma,Ankit Sharma
-p0210,Harry Brook,HC Brook
-p0211,Josh Philippe,JR Philippe
-p0212,Aiden Markram,AK Markram
-p0213,Manvinder Bisla,MS Bisla
-p0214,R. Sanjay Yadav,R Sanjay Yadav
-p0215,Donovan Ferreira,D Ferreira
-p0216,David Willey,DJ Willey
-p0217,Imran Tahir,Imran Tahir
-p0218,Anureet Singh,Anureet Singh
-p0219,Hardik Pandya,HH Pandya
-p0220,R Sanjay Yadav,R Sanjay Yadav
-p0221,M Siddharth,M Siddharth
-p0222,Ramandeep Singh,Ramandeep Singh
-p0223,Jofra Archer,JC Archer
-p0224,Moisés Henriques,MC Henriques
-p0225,Heinrich Klaasen,H Klaasen
-p0226,Tim David,TH David
-p0227,Sonu Yadav,SA Yadav
-p0228,Mitchell Starc,MA Starc
-p0229,Chris Lynn,CA Lynn
-p0230,Krishmar Santokie,K Santokie
-p0231,Rajvardhan Hangargekar,RS Hangargekar
-p0232,Yash Thakur,Yash Thakur
-p0233,Rahul Shukla,R Shukla
-p0234,Shaun Marsh,SE Marsh
-p0235,Kyle Jamieson,KA Jamieson
-p0236,Cheteshwar Pujara,CA Pujara
-p0237,Ishank Jaggi,IR Jaggi
-p0238,Mayank Yadav,MP Yadav
-p0239,Shams Mulani,SZ Mulani
-p0240,Kieron Pollard,KA Pollard
-p0241,Amit Paunikar,AG Paunikar
-p0242,Glenn Maxwell,GJ Maxwell
-p0243,Jagadeesha Suchith,J Suchith
-p0244,Siddarth Kaul,S Kaul
-p0245,M Ashwin,M Ashwin
-p0246,Shimron Hetmyer,SO Hetmyer
-p0247,Vijaykumar Vyshak,Vijaykumar Vyshak
-p0248,Dale Steyn,DW Steyn
-p0249,Riley Meredith,RP Meredith
-p0250,Litton Das,Liton Das
-p0251,Glenn Phillips,GD Phillips
-p0252,Ripal Patel,RV Patel
-p0253,Aniket Verma,Aniket Verma
-p0254,Rajagopal Sathish,R Sathish
-p0255,Mitchell Johnson,MG Johnson
-p0256,N Jagadeesan,N Jagadeesan
-p0257,Parvez Rasool,Parvez Rasool
-p0258,Aiden Blizzard,AC Blizzard
-p0259,Mandeep Singh,Mandeep Singh
-p0260,Harbhajan Singh,Harbhajan Singh
-p0261,Marcus Stoinis,MP Stoinis
-p0262,Suryakumar Yadav,SA Yadav
-p0263,Luke Pomersbach,LA Pomersbach
-p0264,Shubham Agarwal,SS Agarwal
-p0265,M Shahrukh Khan,M Shahrukh Khan
-p0266,Kartik Tyagi,Kartik Tyagi
-p0267,Kulwant Khejroliya,K Khejroliya
-p0268,Matheesha Pathirana,M Pathirana
-p0269,Prithvi Shaw,PP Shaw
-p0270,Matthew Wade,MS Wade
-p0271,Yash Dayal,Yash Dayal
-p0272,Iqbal Abdulla,Iqbal Abdulla
-p0273,Marco Jansen,M Jansen
-p0274,Ayush Badoni,A Badoni
-p0275,Lungisani Ngidi,L Ngidi
-p0276,Abishek Porel,Abishek Porel
-p0277,Sanvir Singh,Sanvir Singh
-p0278,Ashton Turner,AJ Turner
-p0279,Mohammed Shami,Mohammed Shami
-p0280,Matt Henry,MJ Henry
-p0281,Brad Hodge,BJ Hodge
-p0282,Abdul Samad,Abdul Samad
-p0283,Tom Banton,T Banton
-p0284,Sam Curran,SM Curran
-p0285,Upendra Yadav,UT Yadav
-p0286,Rovman Powell,R Powell
-p0287,Gurinder Sandhu,GS Sandhu
-p0288,Atharva Taide,Atharva Taide
-p0289,Nic Maddinson,NJ Maddinson
-p0290,Brendon McCullum,BB McCullum
-p0291,Shreyas Iyer,SS Iyer
-p0292,Tim Seifert,TL Seifert
-p0293,Shardul Thakur,SN Thakur
-p0294,Vidwath Kaverappa,V Kaverappa
-p0295,Narayan Jagadeesan,N Jagadeesan
-p0296,Ishan Kishan,Ishan Kishan
-p0297,Rahul Tewatia,R Tewatia
-p0298,Ashish Reddy,A Ashish Reddy
-p0299,Adil Rashid,AU Rashid
-p0300,Harpreet Brar,Harpreet Brar
-p0301,Xavier Bartlett,XC Bartlett
-p0302,Reece Topley,RJW Topley
-p0303,Robin Minz,R Minz
-p0304,Wayne Parnell,WD Parnell
-p0305,Farhaan Behardien,F Behardien
-p0306,Gurkeerat Singh,Gurkeerat Singh
-p0307,Jos Buttler,JC Buttler
-p0308,Ben Dunk,BR Dunk
-p0309,Samuel Badree,S Badree
-p0310,Prayas Ray Barman,P Ray Barman
-p0311,Steve Smith,SPD Smith
-p0312,Jalaj Saxena,Jalaj S Saxena
-p0313,Anuj Rawat,Anuj Rawat
-p0314,Yuzvendra Chahal,YS Chahal
-p0315,Jacques Kallis,JH Kallis
-p0316,Kevon Cooper,KK Cooper
-p0317,Sanju Samson,SV Samson
-p0318,MS Dhoni,MS Dhoni
-p0319,Praveen Dubey,P Dubey
-p0320,Ashok Dinda,AB Dinda
-p0321,Ravisrinivasan Sai Kishore,R Sai Kishore
-p0322,Colin Ingram,CA Ingram
-p0323,Jatin Saxena,Jalaj S Saxena
-p0324,Sumit Narwal,S Narwal
-p0325,Ricky Ponting,RT Ponting
-p0326,Martin Guptill,MJ Guptill
-p0327,Shamar Joseph,S Joseph
-p0328,Daniel Christian,DT Christian
-p0329,Mithun Manhas,M Manhas
-p0330,Ravi Rampaul,R Rampaul
-p0331,Jamie Overton,J Overton
-p0332,Stuart Binny,STR Binny
-p0333,Raj Angad Bawa,RA Bawa
-p0334,Adam Zampa,A Zampa
-p0335,Sam Billings,SW Billings
-p0336,Maheesh Theekshana,M Theekshana
-p0337,Mohammad Nabi,Mohammad Nabi
-p0338,Vipraj Nigam,V Nigam
-p0339,Jesse Ryder,JD Ryder
-p0340,Carlos Brathwaite,CR Brathwaite
-p0341,Rajan Kumar,R Vinay Kumar
-p0342,Ishan Porel,IC Porel
-p0343,Pawan Suyal,P Suyal
-p0344,Ishwar Pandey,IC Pandey
-p0345,Shivil Kaushik,S Kaushik
-p0346,K Gowtham,K Gowtham
-p0347,Harshit Rana,Harshit Rana
-p0348,Sanjay Yadav,SA Yadav
-p0349,Rilee Rossouw,RR Rossouw
-p0350,Arjun Tendulkar,Arjun Tendulkar
-p0351,Krishnappa Gowtham,K Gowtham
-p0352,Priyam Garg,PK Garg
-p0353,Fidel Edwards,FH Edwards
-p0354,Dhruv Jurel,Dhruv Jurel
-p0355,Muttiah Muralitharan,M Muralitharan
-p0356,Ravindra Jadeja,RA Jadeja
-p0357,Shashank Singh,Shashank Singh
-p0358,Padmanabhan Prasanth,P Prasanth
-p0359,Mayank Dagar,Mayank Dagar
-p0360,Chetan Sakariya,C Sakariya
-p0361,T Natarajan,T Natarajan
-p0362,Faf du Plessis,F du Plessis
-p0363,Kedar Jadhav,KM Jadhav
-p0364,Suyash Sharma,Suyash Sharma
-p0365,Morne Morkel,M Morkel
-p0366,Joe Denly,JL Denly
-p0367,Andre Russell,AD Russell
-p0368,Moeen Ali,MM Ali
-p0369,Parvinder Awana,P Awana
-p0370,Azmatullah Omarzai,Azmatullah Omarzai
-p0371,Jasprit Bumrah,JJ Bumrah
-p0372,Varun Aaron,VR Aaron
-p0373,Tymal Mills,TS Mills
-p0374,Gautam Gambhir,G Gambhir
-p0375,Saurabh Tiwary,SS Tiwary
-p0376,Vaibhav Suryavanshi,V Suryavanshi
-p0377,Shahbaz Ahmed,Shahbaz Ahmed
-p0378,T. Natarajan,T Natarajan
-p0379,Mitchell Marsh,MR Marsh
-p0380,Yash Dhull,YV Dhull
-p0381,Sean Abbott,SA Abbott
-p0382,Shane Watson,SR Watson
-p0383,Prerak Mankad,PN Mankad
-p0384,Sachithra Senanayake,SMSM Senanayake
-p0385,Jake Fraser-McGurk,J Fraser-McGurk
-p0386,Ben Dwarshuis,BJ Dwarshuis
-p0387,Rishi Dhawan,R Dhawan
-p0388,Rahul Tripathi,RA Tripathi
-p0389,Ashish Nehra,A Nehra
-p0390,Bipul Sharma,Bipul Sharma
-p0391,Abhijeet Tomar,A Tomar
-p0392,Ben Stokes,BA Stokes
-p0393,Gurjapneet Singh,Gurjapneet Singh
-p0394,Kunal Rathore,KS Rathore
-p0395,Jayant Yadav,J Yadav
-p0396,Colin de Grandhomme,C de Grandhomme
-p0397,Sudhesan Midhun,S Midhun
-p0398,Mukesh Kumar,Mukesh Kumar
-p0399,Spencer Johnson,SH Johnson
-p0400,Krunal Pandya,KH Pandya
-p0401,Mohsin Khan,Mohsin Khan
-p0402,Mujeeb Ur Rahman,Mujeeb Ur Rahman
-p0403,Ryan Rickelton,RD Rickelton
-p0404,Lalit Yadav,Lalit Yadav
-p0405,Ben Cutting,BCJ Cutting
-p0406,Sarabjit Ladda,S Ladda
-p0407,Trent Boult,TA Boult
-p0408,Nicholas Pooran,N Pooran
-p0409,Debabrata Das,DB Das
-p0410,Mayank Agarwal,MA Agarwal
-p0411,Riyan Parag,R Parag
-p0412,Abdul Basith,Abdul Basith
-p0413,Beuran Hendricks,BE Hendricks
-p0414,Sandeep Lamichhane,S Lamichhane
-p0415,Vignesh Puthur,V Puthur
-p0416,Shivam Dube,S Dube
-p0417,Raghav Goyal,R Goyal
-p0418,Shikhar Dhawan,S Dhawan
-p0419,Munaf Patel,MM Patel
-p0420,Murali Kartik,M Kartik
-p0421,Mark Wood,MA Wood
-p0422,Jean-Paul Duminy,JP Duminy
-p0423,Tanmay Mishra,T Mishra
-p0424,Dirk Nannes,DP Nannes
-p0425,Pankaj Singh,Pankaj Singh
-p0426,Tirumalasetti Suman,TL Suman
-p0427,Priyansh Arya,Priyansh Arya
-p0428,Kane Richardson,KW Richardson
-p0429,Ronit More,RG More
-p0430,Shahbaz Nadeem,S Nadeem
-p0431,Nuwan Thushara,N Thushara
-p0432,Naman Dhir,Naman Dhir
-p0433,Yuvraj Singh,Yuvraj Singh
-p0434,Aniket Choudhary,A Choudhary
-p0435,Ankit Bawne,AR Bawne
-p0436,Dawid Malan,DJ Malan
-p0437,Kyle Abbott,KJ Abbott
-p0438,Adam Milne,AF Milne
-p0439,Tristan Stubbs,T Stubbs
-p0440,Akeal Hosein,AJ Hosein
-p0441,Virat Kohli,V Kohli
-p0442,Chris Morris,CH Morris
-p0443,Umran Malik,Umran Malik
-p0444,Daryl Mitchell,DJ Mitchell
-p0445,Murugan Ashwin,M Ashwin
-p0446,David Warner,DA Warner
-p0447,Pravin Tambe,PV Tambe
-p0448,Piyush Chawla,PP Chawla
-p0449,Shadab Jakati,SB Jakati
-p0450,Parthiv Patel,PA Patel
-p0451,Alex Hales,AD Hales
-p0452,Abhinandan Singh,Abhinandan Singh
-p0453,Shahrukh Khan,SN Khan
-p0454,Kagiso Rabada,K Rabada
-p0455,Jonny Bairstow,JM Bairstow
-p0456,Abhinav Manohar,A Manohar
-p0457,Nehal Wadhera,N Wadhera
-p0458,Ashwani Kumar,Ashwani Kumar
-p0459,Irfan Pathan,IK Pathan
-p0460,Ankit Rajpoot,AS Rajpoot
-p0461,Abu Nechim Ahmed,AN Ahmed
-p0462,Dan Christian,DT Christian
-p0463,Sagar Trivedi,SK Trivedi
-p0464,Arshdeep Singh,Arshdeep Singh
-p0465,Anshul Kamboj,A Kamboj
-p0466,Dinesh Salunkhe,D Salunkhe
-p0467,Sheldon Jackson,SP Jackson
-p0468,Manimaran Siddharth,M Siddharth
-p0469,Alex Carey,AT Carey
-p0470,Rajat Patidar,RM Patidar
-p0471,KM Asif,KM Asif
-p0472,Sameer Rizvi,Sameer Rizvi
-p0473,Karim Janat,Karim Janat
-p0474,Nishant Sindhu,N Sindhu
-p0475,Anrich Nortje,A Nortje
-p0476,Andrew Tye,AJ Tye
-p0477,Vaibhav Arora,VG Arora
-p0478,Nikhil Naik,NS Naik
-p0479,Kane Williamson,KS Williamson
-p0480,Raj Bawa,RA Bawa
-p0481,Will Jacks,WG Jacks
-p0482,Jhye Richardson,JA Richardson
-p0483,Nathan Ellis,NT Ellis
-p0484,Monu Kumar,Monu Kumar
-p0485,James Faulkner,JP Faulkner
-p0486,Tim Southee,TG Southee
-p0487,Zaheer Khan,Z Khan
-p0488,Shaik Rasheed,SK Rasheed
-p0489,Sachin Rana,S Rana
-p0490,Rahmanullah Gurbaz,Rahmanullah Gurbaz
-p0491,Sandeep Warrier,S Sandeep Warrier
-p0492,Mahipal Lomror,MK Lomror
-p0493,Deepak Hooda,DJ Hooda
-p0494,David Wiese,D Wiese
-p0495,Lukman Hussain Meriwala,LI Meriwala
-p0496,Manoj Tiwary,MK Tiwary
-p0497,Darren Sammy,DJG Sammy
-p0498,Laxmi Ratan Shukla,LR Shukla
-p0499,Michael Clarke,MJ Clarke
-p0500,Ansh Patel,AR Patel
-p0501,Kunal Singh Rathore,KS Rathore
-p0502,Manav Suthar,MJ Suthar
-p0503,Shreevats Goswami,SP Goswami
-p0504,Prashant Solanki,PH Solanki
-p0505,Ashutosh Sharma,Ashutosh Sharma
-p0506,Josh Inglis,JP Inglis
-p0507,Pardeep Sahu,P Sahu
-p0508,Umesh Yadav,UT Yadav
-p0509,KL Rahul,KL Rahul
-p0510,Anmolpreet Singh,Anmolpreet Singh
-p0511,Ajinkya Rahane,AM Rahane
-p0512,Chris Woakes,CR Woakes
-p0513,Prince Yadav,Prince Yadav
-p0514,Donavon Ferreira,D Ferreira
-p0515,Rachin Ravindra,R Ravindra
-p0516,Ramesh Kumar,R Vinay Kumar
-p0517,Tejas Baroka,Tejas Baroka
-p0518,Duan Jansen,D Jansen
+p0001,Ankit Rajpoot,AS Rajpoot
+p0002,Pragyan Ojha,PP Ojha
+p0003,Priyansh Arya,Priyansh Arya
+p0004,Prayas Ray Barman,P Ray Barman
+p0005,Shreevats Goswami,SP Goswami
+p0006,Kyle Abbott,KJ Abbott
+p0007,Tejas Baroka,Tejas Baroka
+p0008,Mohit Rathee,Mohit Rathee
+p0009,Yashasvi Jaiswal,YBK Jaiswal
+p0010,Sachin Baby,Sachin Baby
+p0011,Jason Roy,JJ Roy
+p0012,Pawan Negi,P Negi
+p0013,Nishant Sindhu,N Sindhu
+p0014,Mithun Manhas,M Manhas
+p0015,Sandeep Warrier,S Sandeep Warrier
+p0016,Jalaj Saxena,Jalaj S Saxena
+p0017,Abdul Samad,Abdul Samad
+p0018,Ravi Rampaul,R Rampaul
+p0019,Angelo Mathews,AD Mathews
+p0020,Evin Lewis,E Lewis
+p0021,Vijay Shankar,V Shankar
+p0022,Rishi Dhawan,R Dhawan
+p0023,Manan Sharma,MM Sharma
+p0024,M Shahrukh Khan,M Shahrukh Khan
+p0025,Sanjay Yadav,SA Yadav
+p0026,Riyan Parag,R Parag
+p0027,Prerak Mankad,PN Mankad
+p0028,Rajat Bhatia,R Bhatia
+p0029,Jake Fraser-McGurk,J Fraser-McGurk
+p0030,Zaheer Khan,Z Khan
+p0031,Saurabh Tiwary,SS Tiwary
+p0032,Praveen Dubey,P Dubey
+p0033,Wayne Parnell,WD Parnell
+p0034,Dwaine Pretorius,D Pretorius
+p0035,Jaskaran Singh,Jaskaran Singh
+p0036,Kumar Kushagra,Kumar Kushagra
+p0037,Odean Smith,OF Smith
+p0038,Basil Thampi,Basil Thampi
+p0039,David Wiese,D Wiese
+p0040,Tom Banton,T Banton
+p0041,Suyash Prabhudessai,SS Prabhudessai
+p0042,Gerald Coetzee,G Coetzee
+p0043,Mohammad Shami,Mohammed Shami
+p0044,Azmatullah Omarzai,Azmatullah Omarzai
+p0045,Irfan Pathan,IK Pathan
+p0046,Akeal Hosein,AJ Hosein
+p0047,Mujeeb Ur Rahman,Mujeeb Ur Rahman
+p0048,Shikhar Dhawan,S Dhawan
+p0049,Jayant Yadav,J Yadav
+p0050,M Siddharth,M Siddharth
+p0051,Ben Stokes,BA Stokes
+p0052,Anukul Roy,AS Roy
+p0053,David Warner,DA Warner
+p0054,Keemo Paul,KMA Paul
+p0055,Simarjeet Singh,Simarjeet Singh
+p0056,Kuldeep Sen,KR Sen
+p0057,Mohammad Nabi,Mohammad Nabi
+p0058,Aniket Verma,Aniket Verma
+p0059,Sandeep Sharma,Sandeep Sharma
+p0060,Debabrata Das,DB Das
+p0061,Abhimanyu Mithun,A Mithun
+p0062,M Ashwin,M Ashwin
+p0063,Ishan Porel,IC Porel
+p0064,Piyush Chawla,PP Chawla
+p0065,Mohammed Siraj,Mohammed Siraj
+p0066,Kedar Jadhav,KM Jadhav
+p0067,Shreyas Gopal,S Gopal
+p0068,Pradeep Sangwan,PJ Sangwan
+p0069,Joe Root,JE Root
+p0070,Mustafizur Rahman,Mustafizur Rahman
+p0071,Jesse Ryder,JD Ryder
+p0072,D'Arcy Short,DJM Short
+p0073,Anuj Rawat,Anuj Rawat
+p0074,Eshan Malinga,E Malinga
+p0075,Krishnappa Gowtham,K Gowtham
+p0076,Kyle Jamieson,KA Jamieson
+p0077,Mahipal Lomror,MK Lomror
+p0078,Srikkanth Anirudha,S Anirudha
+p0079,Donavon Ferreira,D Ferreira
+p0080,Kulwant Khejroliya,K Khejroliya
+p0081,Ranganath Vinay Kumar,R Vinay Kumar
+p0082,Angkrish Raghuvanshi,A Raghuvanshi
+p0083,Aniket Choudhary,A Choudhary
+p0084,Ramesh Kumar,R Vinay Kumar
+p0085,Riley Meredith,RP Meredith
+p0086,Obed McCoy,OC McCoy
+p0087,Kevon Cooper,KK Cooper
+p0088,Ben Hilfenhaus,BW Hilfenhaus
+p0089,Sudhesan Midhun,S Midhun
+p0090,Kevin Pietersen,KP Pietersen
+p0091,Michael Clarke,MJ Clarke
+p0092,Moisés Henriques,MC Henriques
+p0093,Ashok Dinda,AB Dinda
+p0094,Ryan Rickelton,RD Rickelton
+p0095,Kunal Singh Rathore,KS Rathore
+p0096,Bhuvneshwar Kumar,B Kumar
+p0097,Priyam Garg,PK Garg
+p0098,Mitchell Santner,MJ Santner
+p0099,Spencer Johnson,SH Johnson
+p0100,Parvinder Awana,P Awana
+p0101,K Gowtham,K Gowtham
+p0102,Moeen Ali,MM Ali
+p0103,Rajan Kumar,R Vinay Kumar
+p0104,Brad Hodge,BJ Hodge
+p0105,Manvinder Bisla,MS Bisla
+p0106,Maheesh Theekshana,M Theekshana
+p0107,Lungi Ngidi,L Ngidi
+p0108,Vivrant Sharma,Vivrant Sharma
+p0109,Carlos Brathwaite,CR Brathwaite
+p0110,Dewald Brevis,D Brevis
+p0111,Matthew Wade,MS Wade
+p0112,Himmat Singh,Himmat Singh
+p0113,Daniel Sams,DR Sams
+p0114,Navdeep Saini,Navdeep Saini
+p0115,Ramandeep Singh,Ramandeep Singh
+p0116,Ronit More,RG More
+p0117,Parvez Rasool,Parvez Rasool
+p0118,Dishant Yagnik,DH Yagnik
+p0119,Nehal Wadhera,N Wadhera
+p0120,Shahrukh Khan,SN Khan
+p0121,Shardul Thakur,SN Thakur
+p0122,Umesh Yadav,UT Yadav
+p0123,Suryansh Shedge,Suryansh Shedge
+p0124,K. C. Cariappa,KC Cariappa
+p0125,Gurinder Sandhu,GS Sandhu
+p0126,Prithvi Shaw,PP Shaw
+p0127,Ravisrinivasan Sai Kishore,R Sai Kishore
+p0128,Ricky Ponting,RT Ponting
+p0129,Deepak Hooda,DJ Hooda
+p0130,Kieron Pollard,KA Pollard
+p0131,Sunil Narine,SP Narine
+p0132,Ankit Bawne,AR Bawne
+p0133,KM Asif,KM Asif
+p0134,Quinton de Kock,Q de Kock
+p0135,Glenn Phillips,GD Phillips
+p0136,Shrikant Mundhe,SS Mundhe
+p0137,Tymal Mills,TS Mills
+p0138,Parthiv Patel,PA Patel
+p0139,Ajinkya Rahane,AM Rahane
+p0140,Litton Das,Liton Das
+p0141,Kartik Tyagi,Kartik Tyagi
+p0142,Abhinav Manohar,A Manohar
+p0143,Rovman Powell,R Powell
+p0144,Shams Mulani,SZ Mulani
+p0145,Ishant Sharma,I Sharma
+p0146,Marcus Stoinis,MP Stoinis
+p0147,Alzarri Joseph,AS Joseph
+p0148,Vidwath Kaverappa,V Kaverappa
+p0149,KC Cariappa,KC Cariappa
+p0150,Romario Shepherd,R Shepherd
+p0151,Rahmanullah Gurbaz,Rahmanullah Gurbaz
+p0152,Kane Richardson,KW Richardson
+p0153,Jacob Oram,JDP Oram
+p0154,Sumit Narwal,S Narwal
+p0155,Sherfane Rutherford,SE Rutherford
+p0156,Glenn Maxwell,GJ Maxwell
+p0157,Laxmi Ratan Shukla,LR Shukla
+p0158,Sachin Rana,S Rana
+p0159,Alex Carey,AT Carey
+p0160,Karim Janat,Karim Janat
+p0161,Tushar Deshpande,TU Deshpande
+p0162,Muttiah Muralitharan,M Muralitharan
+p0163,Mark Wood,MA Wood
+p0164,Shahbaz Ahmed,Shahbaz Ahmed
+p0165,Tristan Stubbs,T Stubbs
+p0166,Upendra Yadav,UT Yadav
+p0167,Xavier Bartlett,XC Bartlett
+p0168,Sandeep Lamichhane,S Lamichhane
+p0169,Khaleel Ahmed,KK Ahmed
+p0170,Atharva Taide,Atharva Taide
+p0171,Chetan Sakariya,C Sakariya
+p0172,Jason Behrendorff,JP Behrendorff
+p0173,Raj Bawa,RA Bawa
+p0174,Pawan Suyal,P Suyal
+p0175,George Bailey,GJ Bailey
+p0176,Robin Uthappa,RV Uthappa
+p0177,Darren Sammy,DJG Sammy
+p0178,Manish Pandey,MK Pandey
+p0179,Raj Angad Bawa,RA Bawa
+p0180,Eklavya Dwivedi,ER Dwivedi
+p0181,Tirumalasetti Suman,TL Suman
+p0182,Sam Billings,SW Billings
+p0183,Abhinandan Singh,Abhinandan Singh
+p0184,Mitchell Starc,MA Starc
+p0185,Arshad Khan,Arshad Khan
+p0186,Steve Smith,SPD Smith
+p0187,Virat Kohli,V Kohli
+p0188,Mohsin Khan,Mohsin Khan
+p0189,Arjun Tendulkar,Arjun Tendulkar
+p0190,Narayan Jagadeesan,N Jagadeesan
+p0191,Faf du Plessis,F du Plessis
+p0192,Barinder Sran,BB Sran
+p0193,Dhruv Shorey,DR Shorey
+p0194,Rashid Khan,Rashid Khan
+p0195,Virender Sehwag,V Sehwag
+p0196,Chris Morris,CH Morris
+p0197,Murali Kartik,M Kartik
+p0198,Colin de Grandhomme,C de Grandhomme
+p0199,Andrew Tye,AJ Tye
+p0200,Ashwani Kumar,Ashwani Kumar
+p0201,Shivam Singh,Shivam Singh
+p0202,Shadab Jakati,SB Jakati
+p0203,Sarfaraz Khan,SN Khan
+p0204,Mitchell McClenaghan,MJ McClenaghan
+p0205,Jagadeesha Suchith,J Suchith
+p0206,Shane Watson,SR Watson
+p0207,Aiden Blizzard,AC Blizzard
+p0208,Will Jacks,WG Jacks
+p0209,Ravi Bishnoi,Ravi Bishnoi
+p0210,Chris Gayle,CH Gayle
+p0211,Heinrich Klaasen,H Klaasen
+p0212,Josh Little,J Little
+p0213,Aiden Markram,AK Markram
+p0214,Kunal Rathore,KS Rathore
+p0215,Anshul Kamboj,A Kamboj
+p0216,Yash Dayal,Yash Dayal
+p0217,Morne Morkel,M Morkel
+p0218,Dan Christian,DT Christian
+p0219,Mayank Agarwal,MA Agarwal
+p0220,Prince Yadav,Prince Yadav
+p0221,Rajagopal Sathish,R Sathish
+p0222,Yash Thakur,Yash Thakur
+p0223,T. Natarajan,T Natarajan
+p0224,Monu Kumar,Monu Kumar
+p0225,Martin Guptill,MJ Guptill
+p0226,Shubman Gill,Shubman Gill
+p0227,Ryan Ten Doeschate,RN ten Doeschate
+p0228,Tanmay Mishra,T Mishra
+p0229,Pardeep Sahu,P Sahu
+p0230,Vijay Zol,VH Zol
+p0231,Shaik Rasheed,SK Rasheed
+p0232,Samuel Badree,S Badree
+p0233,Matthew Breetzke,MP Breetzke
+p0234,Abhishek Nayar,AM Nayar
+p0235,Lukman Hussain Meriwala,LI Meriwala
+p0236,Ben Cutting,BCJ Cutting
+p0237,Rajvardhan Hangargekar,RS Hangargekar
+p0238,Corey Anderson,CJ Anderson
+p0239,Shahbaz Nadeem,S Nadeem
+p0240,Prashant Chopra,P Chopra
+p0241,Adil Rashid,AU Rashid
+p0242,Manpreet Gony,MS Gony
+p0243,Anrich Nortje,A Nortje
+p0244,Ishank Jaggi,IR Jaggi
+p0245,Tim David,TH David
+p0246,Kagiso Rabada,K Rabada
+p0247,Jonny Bairstow,JM Bairstow
+p0248,Jaydev Unadkat,JD Unadkat
+p0249,Kona Srikar Bharat,KS Bharat
+p0250,Fidel Edwards,FH Edwards
+p0251,Jos Buttler,JC Buttler
+p0252,Lakshmipathy Balaji,L Balaji
+p0253,Rahul Tewatia,R Tewatia
+p0254,Sheldon Cottrell,SS Cottrell
+p0255,Mukesh Choudhary,Mukesh Choudhary
+p0256,Phil Salt,PD Salt
+p0257,Raghav Goyal,R Goyal
+p0258,Sam Curran,SM Curran
+p0259,Marco Jansen,M Jansen
+p0260,Josh Hazlewood,JR Hazlewood
+p0261,Murugan Ashwin,M Ashwin
+p0262,Dhruv Jurel,Dhruv Jurel
+p0263,CM Gautam,CM Gautam
+p0264,Naveen-ul-Haq,Naveen-ul-Haq
+p0265,Karanveer Singh,Karanveer Singh
+p0266,Reece Topley,RJW Topley
+p0267,Murali Vijay,M Vijay
+p0268,Ambati Rayudu,AT Rayudu
+p0269,R Sai Kishore,R Sai Kishore
+p0270,Nuwan Thushara,N Thushara
+p0271,Padmanabhan Prasanth,P Prasanth
+p0272,Gautam Gambhir,G Gambhir
+p0273,Matheesha Pathirana,M Pathirana
+p0274,Prashant Solanki,PH Solanki
+p0275,Shaun Marsh,SE Marsh
+p0276,Beuran Hendricks,BE Hendricks
+p0277,Kyle Mayers,KR Mayers
+p0278,Ruturaj Gaikwad,RD Gaikwad
+p0279,Jasprit Bumrah,JJ Bumrah
+p0280,Vijaykumar Vyshak,Vijaykumar Vyshak
+p0281,Pankaj Singh,Pankaj Singh
+p0282,Anmolpreet Singh,Anmolpreet Singh
+p0283,Devon Conway,DP Conway
+p0284,Suryakumar Yadav,SA Yadav
+p0285,Colin Munro,C Munro
+p0286,KL Rahul,KL Rahul
+p0287,Lalit Yadav,Lalit Yadav
+p0288,Yuvraj Singh,Yuvraj Singh
+p0289,Darshan Nalkande,DG Nalkande
+p0290,Wriddhiman Saha,WP Saha
+p0291,Nic Maddinson,NJ Maddinson
+p0292,Ramakrishna Ghosh,RS Ghosh
+p0293,Rachin Ravindra,R Ravindra
+p0294,Mayank Yadav,MP Yadav
+p0295,Akash Madhwal,Akash Madhwal
+p0296,R. Sanjay Yadav,R Sanjay Yadav
+p0297,James Neesham,JDS Neesham
+p0298,Pravin Dubey,P Dubey
+p0299,Krishmar Santokie,K Santokie
+p0300,Mohammed Shami,Mohammed Shami
+p0301,Kuldeep Yadav,Kuldeep Yadav
+p0302,Harry Brook,HC Brook
+p0303,Donovan Ferreira,D Ferreira
+p0304,Baba Indrajith,B Indrajith
+p0305,Jofra Archer,JC Archer
+p0306,Ashutosh Sharma,Ashutosh Sharma
+p0307,Himanshu Sharma,H Sharma
+p0308,Tom Curran,TK Curran
+p0309,Ravichandran Ashwin,R Ashwin
+p0310,Mitchell Marsh,MR Marsh
+p0311,Lizaad Williams,LB Williams
+p0312,Noor Ahmad,Noor Ahmad
+p0313,Yash Dhull,YV Dhull
+p0314,Fazalhaq Farooqi,Fazalhaq Farooqi
+p0315,Aaron Finch,AJ Finch
+p0316,Kamlesh Nagarkoti,KL Nagarkoti
+p0317,Peter Handscomb,PSP Handscomb
+p0318,Oshane Thomas,O Thomas
+p0319,Dirk Nannes,DP Nannes
+p0320,Pravin Tambe,PV Tambe
+p0321,Jatin Saxena,Jalaj S Saxena
+p0322,Sheldon Jackson,SP Jackson
+p0323,Adam Zampa,A Zampa
+p0324,Nikhil Naik,NS Naik
+p0325,Joe Denly,JL Denly
+p0326,Mukesh Kumar,Mukesh Kumar
+p0327,Munaf Patel,MM Patel
+p0328,Liam Livingstone,LS Livingstone
+p0329,Nathan McCullum,NL McCullum
+p0330,Akila Dananjaya,A Dananjaya
+p0331,Mayank Markande,M Markande
+p0332,Mayank Dagar,Mayank Dagar
+p0333,Ashton Turner,AJ Turner
+p0334,Farhaan Behardien,F Behardien
+p0335,Naman Dhir,Naman Dhir
+p0336,Harpreet Brar,Harpreet Brar
+p0337,Kane Williamson,KS Williamson
+p0338,Abishek Porel,Abishek Porel
+p0339,Shreyas Iyer,SS Iyer
+p0340,Ansh Patel,AR Patel
+p0341,Manav Suthar,MJ Suthar
+p0342,Kwena Maphaka,KT Maphaka
+p0343,Jhye Richardson,JA Richardson
+p0344,Jamie Overton,J Overton
+p0345,David Miller,DA Miller
+p0346,Dale Steyn,DW Steyn
+p0347,Gurkeerat Singh,Gurkeerat Singh
+p0348,Rishabh Pant,RR Pant
+p0349,Ricky Bhui,RK Bhui
+p0350,Washington Sundar,Washington Sundar
+p0351,Sudeep Tyagi,S Tyagi
+p0352,Manan Vohra,M Vohra
+p0353,Shakib Al Hasan,Shakib Al Hasan
+p0354,Nathan Coulter-Nile,NM Coulter-Nile
+p0355,Tim Southee,TG Southee
+p0356,Deepak Chahar,DL Chahar
+p0357,Nicholas Pooran,N Pooran
+p0358,Duan Jansen,D Jansen
+p0359,T Natarajan,T Natarajan
+p0360,Manoj Tiwary,MK Tiwary
+p0361,Siddhesh Lad,SD Lad
+p0362,Sameer Rizvi,Sameer Rizvi
+p0363,Umran Malik,Umran Malik
+p0364,Michael Hussey,MEK Hussey
+p0365,Shashank Singh,Shashank Singh
+p0366,K. S. Bharat,KS Bharat
+p0367,Subramaniam Badrinath,S Badrinath
+p0368,Paras Dogra,P Dogra
+p0369,Chris Jordan,CJ Jordan
+p0370,Varun Aaron,VR Aaron
+p0371,Ryan McLaren,R McLaren
+p0372,Bipul Sharma,Bipul Sharma
+p0373,Imran Tahir,Imran Tahir
+p0374,Ankit Sharma,Ankit Sharma
+p0375,Yusuf Pathan,YK Pathan
+p0376,Scott Boland,SM Boland
+p0377,Brendon McCullum,BB McCullum
+p0378,Daryl Mitchell,DJ Mitchell
+p0379,Suyash Sharma,Suyash Sharma
+p0380,Johan Botha,J Botha
+p0381,David Willey,DJ Willey
+p0382,Anureet Singh,Anureet Singh
+p0383,Iqbal Abdulla,Iqbal Abdulla
+p0384,Sikandar Raza,Sikandar Raza
+p0385,Venkatesh Iyer,VR Iyer
+p0386,Abhishek Sharma,Abhishek Sharma
+p0387,Nathan Ellis,NT Ellis
+p0388,Lungisani Ngidi,L Ngidi
+p0389,Jacob Bethell,JG Bethell
+p0390,Arshin Kulkarni,AA Kulkarni
+p0391,Axar Patel,AR Patel
+p0392,Rahul Tripathi,RA Tripathi
+p0393,Yudhvir Singh,Yudhvir Singh
+p0394,Manimaran Siddharth,M Siddharth
+p0395,Akash Deep,Akash Deep
+p0396,Manoj Bhandage,MS Bhandage
+p0397,MS Dhoni,MS Dhoni
+p0398,Robin Minz,R Minz
+p0399,Andre Russell,AD Russell
+p0400,Akshdeep Nath,AD Nath
+p0401,Tilak Varma,Tilak Varma
+p0402,Madhav Tiwari,M Tiwari
+p0403,Shakib al Hasan,Shakib Al Hasan
+p0404,Shivam Dube,S Dube
+p0405,Josh Inglis,JP Inglis
+p0406,Sanju Samson,SV Samson
+p0407,Shamar Joseph,S Joseph
+p0408,Nitish Rana,N Rana
+p0409,Arshdeep Singh,Arshdeep Singh
+p0410,Pat Cummins,PJ Cummins
+p0411,Krunal Pandya,KH Pandya
+p0412,Ayush Badoni,A Badoni
+p0413,Yuzvendra Chahal,YS Chahal
+p0414,Jason Holder,JO Holder
+p0415,Nathu Singh,NB Singh
+p0416,Vignesh Puthur,V Puthur
+p0417,Mohit Sharma,MM Sharma
+p0418,Ben Dunk,BR Dunk
+p0419,Harshal Patel,HV Patel
+p0420,Harry Gurney,HF Gurney
+p0421,Adam Milne,AF Milne
+p0422,Lockie Ferguson,LH Ferguson
+p0423,Isuru Udana,I Udana
+p0424,Sanvir Singh,Sanvir Singh
+p0425,Vikramjeet Malik,VS Malik
+p0426,Vaibhav Arora,VG Arora
+p0427,Zeeshan Ansari,Zeeshan Ansari
+p0428,Gurjapneet Singh,Gurjapneet Singh
+p0429,Dhawal Kulkarni,DS Kulkarni
+p0430,Dawid Malan,DJ Malan
+p0431,Ashok Sharma,Ashok Sharma
+p0432,Rajat Patidar,RM Patidar
+p0433,Ishan Kishan,Ishan Kishan
+p0434,Chris Woakes,CR Woakes
+p0435,Rahul Shukla,R Shukla
+p0436,Patrick Cummins,PJ Cummins
+p0437,Ashish Reddy,A Ashish Reddy
+p0438,Siddarth Kaul,S Kaul
+p0439,Shivam Sharma,Shivam Sharma
+p0440,Abdul Basith,Abdul Basith
+p0441,Hardik Pandya,HH Pandya
+p0442,Ben Dwarshuis,BJ Dwarshuis
+p0443,Rasikh Salam,Rasikh Salam
+p0444,Rilee Rossouw,RR Rossouw
+p0445,Eoin Morgan,EJG Morgan
+p0446,Unmukt Chand,UBT Chand
+p0447,Cheteshwar Pujara,CA Pujara
+p0448,AM Ghazanfar,AM Ghazanfar
+p0449,Tim Seifert,TL Seifert
+p0450,Rahul Chahar,RD Chahar
+p0451,Vaibhav Suryavanshi,V Suryavanshi
+p0452,Chris Lynn,CA Lynn
+p0453,Harshit Rana,Harshit Rana
+p0454,Aditya Tare,AP Tare
+p0455,Sachithra Senanayake,SMSM Senanayake
+p0456,Devdutt Padikkal,D Padikkal
+p0457,N Jagadeesan,N Jagadeesan
+p0458,Sean Abbott,SA Abbott
+p0459,Marchant de Lange,M de Lange
+p0460,Siddharth Kaul,S Kaul
+p0461,Ripal Patel,RV Patel
+p0462,Abhijeet Tomar,A Tomar
+p0463,R Sanjay Yadav,R Sanjay Yadav
+p0464,Yogesh Takawale,YV Takawale
+p0465,Nitish Kumar Reddy,Nithish Kumar Reddy
+p0466,Ravindra Jadeja,RA Jadeja
+p0467,Jean-Paul Duminy,JP Duminy
+p0468,Matt Henry,MJ Henry
+p0469,Sonu Yadav,SA Yadav
+p0470,Virat Singh,Virat Singh
+p0471,John Hastings,JW Hastings
+p0472,Naman Ojha,NV Ojha
+p0473,Mandeep Singh,Mandeep Singh
+p0474,James Faulkner,JP Faulkner
+p0475,Sarabjit Ladda,S Ladda
+p0476,Vishnu Vinod,Vishnu Vinod
+p0477,Karun Nair,KK Nair
+p0478,Musheer Khan,Musheer Khan
+p0479,Trent Boult,TA Boult
+p0480,Dwayne Smith,DR Smith
+p0481,Gurnoor Brar,Gurnoor Brar
+p0482,Hrithik Shokeen,HR Shokeen
+p0483,Dinesh Salunkhe,D Salunkhe
+p0484,Urvil Patel,Urvil Patel
+p0485,Prasanth Parameswaran,P Parameswaran
+p0486,Ben Laughlin,B Laughlin
+p0487,Travis Head,TM Head
+p0488,Daniel Christian,DT Christian
+p0489,Alex Hales,AD Hales
+p0490,Mitchell Johnson,MG Johnson
+p0491,Shimron Hetmyer,SO Hetmyer
+p0492,Amit Paunikar,AG Paunikar
+p0493,Akshar Patel,AR Patel
+p0494,Jacques Kallis,JH Kallis
+p0495,Amit Mishra,A Mishra
+p0496,Manprit Juneja,MC Juneja
+p0497,Ishwar Pandey,IC Pandey
+p0498,Sagar Trivedi,SK Trivedi
+p0499,Colin Ingram,CA Ingram
+p0500,Stuart Binny,STR Binny
+p0501,Swapnil Singh,Swapnil Singh
+p0502,Kumar Kartikeya,K Kartikeya
+p0503,Moises Henriques,MC Henriques
+p0504,Ravi Bopara,RS Bopara
+p0505,Shubham Agarwal,SS Agarwal
+p0506,Shivam Mavi,Shivam Mavi
+p0507,Billy Stanlake,B Stanlake
+p0508,Vipraj Nigam,V Nigam
+p0509,Abu Nechim Ahmed,AN Ahmed
+p0510,Luke Pomersbach,LA Pomersbach
+p0511,Avesh Khan,Avesh Khan
+p0512,Shivil Kaushik,S Kaushik
+p0513,Harbhajan Singh,Harbhajan Singh
+p0514,Tripurana Vijay,T Vijay
+p0515,Akash Singh,Akash Singh
+p0516,Ashish Nehra,A Nehra
+p0517,Josh Philippe,JR Philippe
+p0518,Clint McKay,CJ McKay
 p0519,Dwayne Bravo,DJ Bravo
 p0520,Darren Bravo,DM Bravo
 p0521,Rinku Singh,RK Singh
@@ -540,3 +540,82 @@ p0538,Karan Sharma,KS Sharma
 p0539,Karn Sharma,KV Sharma
 p0540,Fabian Allen,FA Allen
 p0541,Finn Allen,FH Allen
+p0542,Aaron Hardie,
+p0543,Ajay Mandal,
+p0544,Anirudh Chowdhary,
+p0545,Aravelly Avanish,
+p0546,Arpit Guleria,
+p0547,Aryan Juyal,
+p0548,Atit Sheth,
+p0549,Avinash Singh,
+p0550,Bailapudi Yeswanth,
+p0551,Ben Duckett,
+p0552,Bevon Jacobs,
+p0553,Blessing Muzarabani,
+p0554,Brandon King,
+p0555,Brandon McMullen,
+p0556,Brydon Carse,
+p0557,C Andre Siddarth,
+p0558,Digvesh Singh,
+p0559,Digvijay Deshmukh,
+p0560,Dilshan Madushanka,
+p0561,Divesh Sharma,
+p0562,Dushmantha Chameera,
+p0563,Emanjot Singh Chahal,
+p0564,Gus Atkinson,
+p0565,Harnoor Singh,
+p0566,Harvik Desai,
+p0567,Jhathavedh Subramanyan,
+p0568,Kamindu Mendis,
+p0569,Keshav Maharaj,
+p0570,Khrievitso Kense,
+p0571,Krishnan Shrijith,
+p0572,LR Chethan,
+p0573,Lance Morris,
+p0574,Leus du Plooy,
+p0575,Luke Wood,
+p0576,Luvnith Sisodia,
+p0577,Madhav Kaushik,
+p0578,Manvanth Kumar,
+p0579,Matthew Short,
+p0580,Mayank Agarawal,
+p0581,Michael Bracewell,
+p0582,Naman Tiwari,
+p0583,Nathan Smith,
+p0584,Olly Stone,
+p0585,Ottneil Baartman,
+p0586,Pathum Nissanka,
+p0587,Prasidh Krishna,
+p0588,Prince Choudhary,
+p0589,Pukhraj Mann,
+p0590,Pyla Avinash,
+p0591,Raj Limbani,
+p0592,Richard Gleeson,
+p0593,Rishad Hossain,
+p0594,Roston Chase,
+p0595,Sachin Dhas,
+p0596,Sai Kishore,
+p0597,Sai Sudharsan,
+p0598,Sakib Hussain,
+p0599,Salman Nizar,
+p0600,Satyanarayana Raju,
+p0601,Shai Hope,
+p0602,Shiva Singh,
+p0603,Shivalik Sharma,
+p0604,Srikar Bharat,
+p0605,Steven Smith,
+p0606,Swastik Chikara,
+p0607,Tanush Kotian,
+p0608,Tejasvi Dahiya,
+p0609,Tom Latham,
+p0610,Umang Kumar,
+p0611,Utkarsh Singh,
+p0612,Vansh Bedi,
+p0613,Varun Chakravarthy,
+p0614,Vijay Kumar,
+p0615,Vijayakanth Viyaskanth,
+p0616,Wanindu Hasaranga,
+p0617,Waqar Salamkheil,
+p0618,William O’Rourke,
+p0619,Yash Dabas,
+p0620,Yuvraj Chaudhary,
